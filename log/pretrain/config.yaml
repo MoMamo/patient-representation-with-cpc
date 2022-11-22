@@ -1,0 +1,21 @@
+base_params:
+  dataloader: CPCDL
+  dataloader_params: {age_dict_path: /well/rahimi/users/sev854/project/HFValid/data/dict/dict4age,
+    max_seq_length: 128, token_dict_path: /well/rahimi/users/sev854/project/HFValid/data/dict/dict4code}
+  model: CPC
+  model_params:
+    hidden_dropout_prob: 0.2
+    hidden_size: 256
+    num_layer: 2
+    optimiser: sgd
+    optimiser_params: {lr: 0.0001}
+    scheduler: {T_max: 50, eta_min: 3.0e-05}
+    time_step: 10
+callback_params:
+  modelCheckpoint: {filename: save_ckpt, mode: min, monitor: loss, save_last: true,
+    save_top_k: 1}
+  plug_in: null
+env_params: {accelerator: ddp, accumulate_grad_batches: 1, gpus: 3, log_every_n_steps: 50,
+  max_epochs: 1000, num_sanity_val_steps: 5, resume_from_checkpoint: /well/rahimi/users/sev854/project/EHRPretrain/log/pretrain/last.ckpt}
+train_params: {batch_size: 64, data_path: /well/rahimi/users/sev854/project/Mo/data/BEHRT.parquet,
+  mode: train, num_workers: 3, shuffle: true}

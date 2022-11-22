@@ -1,0 +1,1910 @@
+cprd_prodcode	description	description2	bnf_code
+46355	Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/Olmesartan medoxomil/Amlodipine besilate	2050502
+53220	Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil	2050502
+46687	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+46715	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+55358	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+46792	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+47467	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+56606	Azilsartan medoxomil 40mg tablets	Azilsartan medoxomil	2050502
+51368	Azilsartan medoxomil 80mg tablets	Azilsartan medoxomil	2050502
+51897	Edarbi 20mg tablets (Takeda UK Ltd)	Azilsartan medoxomil	2050502
+5117	Amias 16mg tablets (Takeda UK Ltd)	Candesartan cilexetil	2050502
+4155	Amias 2mg tablets (Takeda UK Ltd)	Candesartan cilexetil	2050502
+31072	Amias 32mg tablets (Takeda UK Ltd)	Candesartan cilexetil	2050502
+4685	Amias 4mg tablets (Takeda UK Ltd)	Candesartan cilexetil	2050502
+5013	Amias 8mg tablets (Takeda UK Ltd)	Candesartan cilexetil	2050502
+4741	Candesartan 16mg tablets	Candesartan cilexetil	2050502
+52208	Candesartan 16mg tablets (A A H Pharmaceuticals Ltd)	Candesartan cilexetil	2050502
+57977	Candesartan 16mg tablets (Alliance Healthcare (Distribution) Ltd)	Candesartan cilexetil	2050502
+54414	Candesartan 16mg tablets (Consilient Health Ltd)	Candesartan cilexetil	2050502
+65228	Candesartan 16mg tablets (Mawdsley-Brooks & Company Ltd)	Candesartan cilexetil	2050502
+66624	Candesartan 16mg tablets (Sandoz Ltd)	Candesartan cilexetil	2050502
+53680	Candesartan 16mg tablets (Teva UK Ltd)	Candesartan cilexetil	2050502
+62035	Candesartan 16mg tablets (Waymade Healthcare Plc)	Candesartan cilexetil	2050502
+529	Candesartan 2mg tablets	Candesartan cilexetil	2050502
+65479	Candesartan 2mg tablets (A A H Pharmaceuticals Ltd)	Candesartan cilexetil	2050502
+57266	Candesartan 2mg tablets (Actavis UK Ltd)	Candesartan cilexetil	2050502
+59802	Candesartan 2mg tablets (Teva UK Ltd)	Candesartan cilexetil	2050502
+7043	Candesartan 32mg tablets	Candesartan cilexetil	2050502
+54326	Candesartan 32mg tablets (Teva UK Ltd)	Candesartan cilexetil	2050502
+531	Candesartan 4mg tablets	Candesartan cilexetil	2050502
+58646	Candesartan 4mg tablets (Actavis UK Ltd)	Candesartan cilexetil	2050502
+64359	Candesartan 4mg tablets (DE Pharmaceuticals)	Candesartan cilexetil	2050502
+51647	Candesartan 4mg tablets (Mawdsley-Brooks & Company Ltd)	Candesartan cilexetil	2050502
+62140	Candesartan 4mg tablets (Sandoz Ltd)	Candesartan cilexetil	2050502
+53755	Candesartan 4mg tablets (Teva UK Ltd)	Candesartan cilexetil	2050502
+4818	Candesartan 8mg tablets	Candesartan cilexetil	2050502
+51519	Candesartan 8mg tablets (A A H Pharmaceuticals Ltd)	Candesartan cilexetil	2050502
+57273	Candesartan 8mg tablets (Actavis UK Ltd)	Candesartan cilexetil	2050502
+59690	Candesartan 8mg tablets (Consilient Health Ltd)	Candesartan cilexetil	2050502
+51117	Candesartan 8mg tablets (DE Pharmaceuticals)	Candesartan cilexetil	2050502
+66958	Candesartan 8mg tablets (Sandoz Ltd)	Candesartan cilexetil	2050502
+50185	Candesartan 8mg tablets (Teva UK Ltd)	Candesartan cilexetil	2050502
+57026	Candesartan 8mg tablets (Waymade Healthcare Plc)	Candesartan cilexetil	2050502
+52559	Candesartan 8mg tablets (Zentiva)	Candesartan cilexetil	2050502
+18269	Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Captopril	2050501
+3069	Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Captopril	2050501
+18325	Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Captopril	2050501
+3310	Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Captopril	2050501
+56509	Capoten 12.5mg tablets (Dowelhurst Ltd)	Captopril	2050501
+1144	Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Captopril	2050501
+3839	Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Captopril	2050501
+25998	Captomex 12.5mg tablets (Actavis UK Ltd)	Captopril	2050501
+28820	Captomex 25mg tablets (Actavis UK Ltd)	Captopril	2050501
+24482	Captomex 50mg tablets (Actavis UK Ltd)	Captopril	2050501
+8923	CAPTOPRIL 100 MG TAB	0	0
+66597	Captopril 10mg/5ml oral suspension	Captopril	2050501
+33646	Captopril 12.5mg Tablet (Generics (UK) Ltd)	Captopril	2050501
+34544	Captopril 12.5mg Tablet (IVAX Pharmaceuticals UK Ltd)	Captopril	2050501
+1121	Captopril 12.5mg tablets	Captopril	2050501
+46951	Captopril 12.5mg tablets (A A H Pharmaceuticals Ltd)	Captopril	2050501
+41633	Captopril 12.5mg tablets (Actavis UK Ltd)	Captopril	2050501
+46957	Captopril 12.5mg tablets (Tillomed Laboratories Ltd)	Captopril	2050501
+58195	Captopril 12.5mg/5ml oral solution	Captopril	2050501
+35302	Captopril 12.5mg/5ml oral suspension	Captopril	2050501
+43507	Captopril 25mg Tablet (Generics (UK) Ltd)	Captopril	2050501
+34562	Captopril 25mg Tablet (IVAX Pharmaceuticals UK Ltd)	Captopril	2050501
+34936	Captopril 25mg Tablet (Lagap)	Captopril	2050501
+1143	Captopril 25mg tablets	Captopril	2050501
+43649	Captopril 25mg tablets (A A H Pharmaceuticals Ltd)	Captopril	2050501
+41617	Captopril 25mg tablets (Actavis UK Ltd)	Captopril	2050501
+37655	Captopril 25mg tablets (Teva UK Ltd)	Captopril	2050501
+52499	Captopril 25mg/5ml oral solution	Captopril	2050501
+64739	Captopril 25mg/5ml oral solution (Special Order)	Captopril	2050501
+59915	Captopril 25mg/5ml oral solution sugar free	Captopril	2050501
+39512	Captopril 25mg/5ml oral suspension	Captopril	2050501
+54544	Captopril 25mg/5ml oral suspension	Captopril	2050501
+52293	Captopril 2mg capsules	Captopril	2050501
+15958	Captopril 2mg tablets	Captopril	2050501
+36742	Captopril 2mg/5ml oral suspension	Captopril	2050501
+17633	Captopril 3mg/5ml oral solution	Captopril	2050501
+217	CAPTOPRIL 4 MG/ML LIQ	0	0
+34719	Captopril 50mg Tablet (Generics (UK) Ltd)	Captopril	2050501
+34937	Captopril 50mg Tablet (IVAX Pharmaceuticals UK Ltd)	Captopril	2050501
+1807	Captopril 50mg tablets	Captopril	2050501
+41743	Captopril 50mg tablets (Teva UK Ltd)	Captopril	2050501
+46851	Captopril 5mg/5ml oral solution	Captopril	2050501
+59699	Captopril 5mg/5ml oral solution sugar free	0	2050501
+17624	Captopril 5mg/5ml oral suspension	Captopril	2050501
+33336	Captopril 5mg/5ml Oral suspension (Eldon Laboratories)	Captopril	2050501
+44527	Captopril 5mg/ml oral solution sugar free	Captopril	2050501
+43432	Captopril 6.25mg tablets	Captopril	2050501
+28486	Captopril 6.25mg/5ml oral suspension	Captopril	2050501
+45228	Captopril capsules	Captopril	2050501
+56850	Ecopace 12.5mg tablets (AMCo)	Captopril	2050501
+32514	Ecopace 25mg tablets (AMCo)	Captopril	2050501
+21943	Kaplon 12.5mg tablets (Teva UK Ltd)	Captopril	2050501
+26995	Kaplon 25mg tablets (Teva UK Ltd)	Captopril	2050501
+32048	Kaplon 50mg tablets (Teva UK Ltd)	Captopril	2050501
+64902	Lisinopril 5mg/5ml oral solution sugar free	0	2050501
+60349	Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	Captopril	2050501
+20849	Tensopril 12.5mg tablets (Teva UK Ltd)	Captopril	2050501
+30039	Tensopril 25mg tablets (Teva UK Ltd)	Captopril	2050501
+23478	Tensopril 50mg tablets (Teva UK Ltd)	Captopril	2050501
+11641	Captopril 25mg with Hydrochlorothiazide 12.5mg tablets	Captopril/Hydrochlorothiazide	02020100/02050501
+10902	Captopril 50mg with Hydrochlorothiazide 25mg tablets	Captopril/Hydrochlorothiazide	02020100/02050501
+15135	Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet	Captopril/Hydrochlorothiazide	02020100/02050501
+11133	Hydrochlorothiazide with captopril 25mg with 50mg Tablet	Captopril/Hydrochlorothiazide	02020100/02050501
+15605	Cilazapril 250micrograms tablets	Cilazapril	2050501
+23642	Vascace 0.25mg Tablet (Roche Products Ltd)	Cilazapril	2050501
+12574	Cilazapril 1mg tablets	Cilazapril monohydrate	2050501
+12412	Cilazapril 2.5mg tablets	Cilazapril monohydrate	2050501
+12411	Cilazapril 500microgram tablets	Cilazapril monohydrate	2050501
+13026	Cilazapril 5mg tablets	Cilazapril monohydrate	2050501
+16212	Vascace 1mg tablets (Roche Products Ltd)	Cilazapril monohydrate	2050501
+16197	Vascace 2.5mg tablets (Roche Products Ltd)	Cilazapril monohydrate	2050501
+21053	Vascace 500microgram tablets (Roche Products Ltd)	Cilazapril monohydrate	2050501
+16196	Vascace 5mg tablets (Roche Products Ltd)	Cilazapril monohydrate	2050501
+22004	CARACE (SPECIAL COMPLIANCE PACK)	0	0
+24693	CARACE (SPECIAL COMPLIANCE PACK)	0	0
+23382	CARACE (SPECIAL COMPLIANCE PACK)	0	0
+36753	Ednyt 10mg Tablet (Dominion Pharma)	Enalapril maleate	2050501
+44657	Ednyt 2.5mg Tablet (Dominion Pharma)	Enalapril maleate	2050501
+22439	Ednyt 20mg Tablet (Dominion Pharma)	Enalapril maleate	2050501
+33057	Ednyt 5mg Tablet (Dominion Pharma)	Enalapril maleate	2050501
+58751	Enalapril 1.25mg/5ml oral suspension	Enalapril maleate	2050501
+1299	Enalapril 10mg tablets	Enalapril maleate	2050501
+32241	Enalapril 10mg tablets (A A H Pharmaceuticals Ltd)	Enalapril maleate	2050501
+19208	Enalapril 10mg tablets (Actavis UK Ltd)	Enalapril maleate	2050501
+52010	Enalapril 10mg tablets (Alliance Healthcare (Distribution) Ltd)	Enalapril maleate	2050501
+63322	Enalapril 10mg tablets (Almus Pharmaceuticals Ltd)	Enalapril maleate	2050501
+55903	Enalapril 10mg tablets (Dexcel-Pharma Ltd)	Enalapril maleate	2050501
+34952	Enalapril 10mg tablets (Mylan Ltd)	Enalapril maleate	2050501
+61133	Enalapril 10mg tablets (Phoenix Healthcare Distribution Ltd)	Enalapril maleate	2050501
+41746	Enalapril 10mg tablets (Sandoz Ltd)	Enalapril maleate	2050501
+42894	Enalapril 10mg tablets (Teva UK Ltd)	Enalapril maleate	2050501
+13755	Enalapril 10mg wafer	Enalapril Maleate	2050501
+66895	Enalapril 10mg/5ml oral suspension	Enalapril maleate	2050501
+448	Enalapril 2.5mg tablets	Enalapril maleate	2050501
+41417	Enalapril 2.5mg tablets (A A H Pharmaceuticals Ltd)	Enalapril maleate	2050501
+64877	Enalapril 2.5mg tablets (Dexcel-Pharma Ltd)	Enalapril maleate	2050501
+41694	Enalapril 2.5mg tablets (IVAX Pharmaceuticals UK Ltd)	Enalapril maleate	2050501
+28127	Enalapril 2.5mg tablets (Teva UK Ltd)	Enalapril maleate	2050501
+43563	Enalapril 2.5mg tablets (Zentiva)	Enalapril maleate	2050501
+20188	Enalapril 2.5mg wafer	Enalapril Maleate	2050501
+57882	Enalapril 2.5mg/5ml oral suspension	Enalapril maleate	2050501
+1904	Enalapril 20mg tablets	Enalapril maleate	2050501
+33078	Enalapril 20mg tablets (A A H Pharmaceuticals Ltd)	Enalapril maleate	2050501
+31716	Enalapril 20mg tablets (Actavis UK Ltd)	Enalapril maleate	2050501
+53719	Enalapril 20mg tablets (Alliance Healthcare (Distribution) Ltd)	Enalapril maleate	2050501
+34768	Enalapril 20mg tablets (IVAX Pharmaceuticals UK Ltd)	Enalapril maleate	2050501
+34712	Enalapril 20mg tablets (Kent Pharmaceuticals Ltd)	Enalapril maleate	2050501
+59996	Enalapril 20mg tablets (Milpharm Ltd)	Enalapril maleate	2050501
+34453	Enalapril 20mg tablets (Mylan Ltd)	Enalapril maleate	2050501
+34798	Enalapril 20mg tablets (Sandoz Ltd)	Enalapril maleate	2050501
+42902	Enalapril 20mg tablets (Teva UK Ltd)	Enalapril maleate	2050501
+34953	Enalapril 20mg tablets (Zentiva)	Enalapril maleate	2050501
+24041	Enalapril 20mg wafer	Enalapril Maleate	2050501
+50780	Enalapril 2mg/5ml oral solution	Enalapril maleate	2050501
+57378	Enalapril 2mg/5ml oral suspension	Enalapril maleate	2050501
+50334	Enalapril 4mg/5ml oral suspension	Enalapril maleate	2050501
+34400	Enalapril 5mg Tablet (Dowelhurst Ltd)	Enalapril maleate	2050501
+196	Enalapril 5mg tablets	Enalapril maleate	2050501
+35794	Enalapril 5mg tablets (A A H Pharmaceuticals Ltd)	Enalapril maleate	2050501
+62860	Enalapril 5mg tablets (DE Pharmaceuticals)	Enalapril maleate	2050501
+53915	Enalapril 5mg tablets (Dexcel-Pharma Ltd)	Enalapril maleate	2050501
+42908	Enalapril 5mg tablets (IVAX Pharmaceuticals UK Ltd)	Enalapril maleate	2050501
+45217	Enalapril 5mg tablets (Kent Pharmaceuticals Ltd)	Enalapril maleate	2050501
+60143	Enalapril 5mg tablets (Medreich Plc)	Enalapril maleate	2050501
+46974	Enalapril 5mg tablets (Mylan Ltd)	Enalapril maleate	2050501
+43411	Enalapril 5mg tablets (Sandoz Ltd)	Enalapril maleate	2050501
+42901	Enalapril 5mg tablets (Teva UK Ltd)	Enalapril maleate	2050501
+22708	Enalapril 5mg wafer	Enalapril Maleate	2050501
+37080	Enalapril 5mg/5ml oral solution	Enalapril maleate	2050501
+50863	Enalapril 5mg/5ml oral solution (Drug Tariff Special Order)	Enalapril maleate	2050501
+37087	Enalapril 5mg/5ml oral suspension	Enalapril maleate	2050501
+52882	Enalapril 5mg/5ml oral suspension sugar free	Enalapril maleate	2050501
+27890	ENALAPRIL MALEATE	0	0
+3509	ENALAPRIL MALEATE 40 MG TAB	0	0
+16708	Enalapril titration pack	Enalapril Maleate	2050501
+8830	Innovace 10mg tablets (Merck Sharp & Dohme Ltd)	Enalapril maleate	2050501
+8106	Innovace 2.5mg tablets (Merck Sharp & Dohme Ltd)	Enalapril maleate	2050501
+8105	Innovace 20mg tablets (Merck Sharp & Dohme Ltd)	Enalapril maleate	2050501
+8800	Innovace 5mg tablets (Merck Sharp & Dohme Ltd)	Enalapril maleate	2050501
+27871	Innovace melt 10mg Wafer (Merck Sharp & Dohme Ltd)	Enalapril Maleate	2050501
+29530	Innovace melt 2.5mg Wafer (Merck Sharp & Dohme Ltd)	Enalapril Maleate	2050501
+31587	Innovace melt 20mg Wafer (Merck Sharp & Dohme Ltd)	Enalapril Maleate	2050501
+11197	Innovace melt 5mg Wafer (Merck Sharp & Dohme Ltd)	Enalapril Maleate	2050501
+15085	Innovace Titration pack (Merck Sharp & Dohme Ltd)	Enalapril Maleate	2050501
+60823	Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	0	2050501
+23252	Pralenal 10 tablets (Opus Pharmaceuticals Ltd)	Enalapril maleate	2050501
+42723	Pralenal 5 tablets (Opus Pharmaceuticals Ltd)	Enalapril maleate	2050501
+5189	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril maleate/Hydrochlorothiazide	02020100/02050501
+1021	Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Enalapril maleate/Hydrochlorothiazide	02020100/02050501
+6939	Eprosartan 300mg tablets	Eprosartan mesilate	2050502
+13123	Eprosartan 400mg tablets	Eprosartan mesilate	2050502
+12836	Eprosartan 600mg tablets	Eprosartan mesilate	2050502
+63337	Eprosartan 600mg tablets (A A H Pharmaceuticals Ltd)	Eprosartan mesilate	2050502
+9745	Teveten 300mg tablets (Mylan Ltd)	Eprosartan mesilate	2050502
+16285	Teveten 400mg tablets (Abbott Healthcare Products Ltd)	Eprosartan mesilate	2050502
+16371	Teveten 600mg tablets (Mylan Ltd)	Eprosartan mesilate	2050502
+633	Fosinopril 10mg tablets	Fosinopril sodium	2050501
+5861	Fosinopril 20mg tablets	Fosinopril sodium	2050501
+4571	Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Fosinopril sodium	2050501
+13589	Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Fosinopril sodium	2050501
+47573	Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil	2050502
+60007	Generic Sevikar HCT 40mg/10mg/12.5mg tablets	0	2050502
+47616	Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/amlodipine/olmesartan Medoxomil	2050502
+47727	Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/amlodipine/olmesartan Medoxomil	2050502
+18263	Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Hydrochlorothiazide/Captopril	2050501
+25051	CAPOZIDE	0	0
+1520	Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Hydrochlorothiazide/Captopril	02020100/02050501
+39227	Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Hydrochlorothiazide/Captopril	2050501
+3203	Capozide LS Tablet (E R Squibb and Sons Ltd)	Hydrochlorothiazide/Captopril	02020100/02050501
+32166	Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd)	Hydrochlorothiazide/Captopril	02020100/02050501
+11561	Co-zidocapt 12.5mg/25mg tablets	Hydrochlorothiazide/Captopril	02020100/02050501
+11351	Co-zidocapt 25mg/50mg tablets	Hydrochlorothiazide/Captopril	02020100/02050501
+37650	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/losartan Potassium	2050504
+35380	Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet	Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+39021	Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet	Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+18200	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+18903	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/olmesartan Medoxomil	02020100/02050502
+43322	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+29634	Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+43915	Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+15031	Accuretic 12.5mg/10mg tablets (Pfizer Ltd)	Hydrochlorothiazide/Quinapril hydrochloride	2050501
+15108	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/Quinapril hydrochloride	2050501
+38889	MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd)	Hydrochlorothiazide/telmisartan	2050504
+38459	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/telmisartan	2050504
+764	Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Hydrochlorothiazide/Valsartan	2050504
+52858	Co-Diovan 80mg/12.5mg tablets (Sigma Pharmaceuticals Plc)	Hydrochlorothiazide/Valsartan	2050504
+16060	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/Valsartan	2050504
+12858	Imidapril 10mg tablets	Imidapril hydrochloride	2050501
+18219	Imidapril 20mg tablets	Imidapril hydrochloride	2050501
+16924	Imidapril 5mg tablets	Imidapril hydrochloride	2050501
+12815	Tanatril 10mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)	Imidapril hydrochloride	2050501
+32560	Tanatril 20mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)	Imidapril hydrochloride	2050501
+6408	Tanatril 5mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)	Imidapril hydrochloride	2050501
+37978	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Indapamide/perindopril Arginine	02020100/02050501
+9196	Aprovel 150mg tablets (Sanofi)	Irbesartan	2050502
+11348	Aprovel 300mg tablets (Sanofi)	Irbesartan	2050502
+7338	Aprovel 75mg tablets (Sanofi)	Irbesartan	2050502
+31160	IRBESARTAN	0	0
+1293	Irbesartan 150mg tablets	Irbesartan	2050502
+58108	Irbesartan 150mg tablets (A A H Pharmaceuticals Ltd)	Irbesartan	2050502
+58201	Irbesartan 150mg tablets (Actavis UK Ltd)	Irbesartan	2050502
+60597	Irbesartan 150mg tablets (Teva UK Ltd)	Irbesartan	2050502
+2971	Irbesartan 300mg tablets	Irbesartan	2050502
+62415	Irbesartan 300mg tablets (A A H Pharmaceuticals Ltd)	Irbesartan	2050502
+55017	Irbesartan 300mg tablets (Accord Healthcare Ltd)	Irbesartan	2050502
+63411	Irbesartan 300mg tablets (Alliance Healthcare (Distribution) Ltd)	Irbesartan	2050502
+63717	Irbesartan 300mg tablets (DE Pharmaceuticals)	Irbesartan	2050502
+59393	Irbesartan 300mg tablets (Sandoz Ltd)	Irbesartan	2050502
+52972	Irbesartan 300mg tablets (Sigma Pharmaceuticals Plc)	Irbesartan	2050502
+61781	Irbesartan 300mg tablets (Teva UK Ltd)	Irbesartan	2050502
+36939	Irbesartan 300mg/5ml oral suspension	Irbesartan	2050502
+828	Irbesartan 75mg tablets	Irbesartan	2050502
+65065	Irbesartan 75mg tablets (A A H Pharmaceuticals Ltd)	Irbesartan	2050502
+52658	Losartan 100mg/5ml oral suspension	0	2050502
+63385	Sabervel 75mg tablets (Aspire Pharma Ltd)	Irbesartan	2050502
+16701	Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril	2050501
+10882	Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril	2050501
+12313	Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril	2050501
+14387	Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril	2050501
+65	Lisinopril 10mg tablets	Lisinopril	2050501
+43416	Lisinopril 10mg tablets (A A H Pharmaceuticals Ltd)	Lisinopril	2050501
+55639	Lisinopril 10mg tablets (Accord Healthcare Ltd)	Lisinopril	2050501
+45300	Lisinopril 10mg tablets (Actavis UK Ltd)	Lisinopril	2050501
+53271	Lisinopril 10mg tablets (Alliance Healthcare (Distribution) Ltd)	Lisinopril	2050501
+47159	Lisinopril 10mg tablets (Almus Pharmaceuticals Ltd)	Lisinopril	2050501
+54288	Lisinopril 10mg tablets (Arrow Generics Ltd)	Lisinopril	2050501
+54928	Lisinopril 10mg tablets (Bristol Laboratories Ltd)	Lisinopril	2050501
+63030	Lisinopril 10mg tablets (DE Pharmaceuticals)	Lisinopril	2050501
+60010	Lisinopril 10mg tablets (Kent Pharmaceuticals Ltd)	Lisinopril	2050501
+33977	Lisinopril 10mg tablets (Mylan Ltd)	Lisinopril	2050501
+58863	Lisinopril 10mg tablets (Phoenix Healthcare Distribution Ltd)	Lisinopril	2050501
+54037	Lisinopril 10mg tablets (Relonchem Ltd)	Lisinopril	2050501
+32597	Lisinopril 10mg tablets (Sandoz Ltd)	Lisinopril	2050501
+65102	Lisinopril 10mg tablets (Sigma Pharmaceuticals Plc)	Lisinopril	2050501
+19223	Lisinopril 10mg tablets (Teva UK Ltd)	Lisinopril	2050501
+58871	Lisinopril 10mg tablets (Waymade Healthcare Plc)	Lisinopril	2050501
+57048	Lisinopril 10mg tablets (Zentiva)	Lisinopril	2050501
+62564	Lisinopril 10mg/5ml oral solution	Lisinopril	2050501
+63824	Lisinopril 10mg/5ml oral suspension	Lisinopril	2050501
+277	Lisinopril 2.5mg tablets	Lisinopril	2050501
+43412	Lisinopril 2.5mg tablets (A A H Pharmaceuticals Ltd)	Lisinopril	2050501
+55896	Lisinopril 2.5mg tablets (Actavis UK Ltd)	Lisinopril	2050501
+65536	Lisinopril 2.5mg tablets (Alliance Healthcare (Distribution) Ltd)	Lisinopril	2050501
+58451	Lisinopril 2.5mg tablets (Almus Pharmaceuticals Ltd)	Lisinopril	2050501
+65985	Lisinopril 2.5mg tablets (DE Pharmaceuticals)	Lisinopril	2050501
+58461	Lisinopril 2.5mg tablets (Kent Pharmaceuticals Ltd)	Lisinopril	2050501
+65983	Lisinopril 2.5mg tablets (Lupin (Europe) Ltd)	Lisinopril	2050501
+58682	Lisinopril 2.5mg tablets (Mylan Ltd)	Lisinopril	2050501
+43566	Lisinopril 2.5mg tablets (Sandoz Ltd)	Lisinopril	2050501
+30921	Lisinopril 2.5mg tablets (Teva UK Ltd)	Lisinopril	2050501
+66772	Lisinopril 2.5mg tablets (Waymade Healthcare Plc)	Lisinopril	2050501
+60097	Lisinopril 2.5mg tablets (Zentiva)	Lisinopril	2050501
+56279	Lisinopril 2.5mg/5ml oral solution	Lisinopril	2050501
+58258	Lisinopril 2.5mg/5ml oral suspension	Lisinopril	2050501
+69	Lisinopril 20mg tablets	Lisinopril	2050501
+43413	Lisinopril 20mg tablets (A A H Pharmaceuticals Ltd)	Lisinopril	2050501
+55002	Lisinopril 20mg tablets (Accord Healthcare Ltd)	Lisinopril	2050501
+45324	Lisinopril 20mg tablets (Actavis UK Ltd)	Lisinopril	2050501
+59111	Lisinopril 20mg tablets (Alliance Healthcare (Distribution) Ltd)	Lisinopril	2050501
+61262	Lisinopril 20mg tablets (Bristol Laboratories Ltd)	Lisinopril	2050501
+66622	Lisinopril 20mg tablets (DE Pharmaceuticals)	Lisinopril	2050501
+63559	Lisinopril 20mg tablets (Kent Pharmaceuticals Ltd)	Lisinopril	2050501
+34696	Lisinopril 20mg tablets (Mylan Ltd)	Lisinopril	2050501
+53551	Lisinopril 20mg tablets (Phoenix Healthcare Distribution Ltd)	Lisinopril	2050501
+46979	Lisinopril 20mg tablets (Sandoz Ltd)	Lisinopril	2050501
+55588	Lisinopril 20mg tablets (Sigma Pharmaceuticals Plc)	Lisinopril	2050501
+19198	Lisinopril 20mg tablets (Teva UK Ltd)	Lisinopril	2050501
+51433	Lisinopril 20mg tablets (Tillomed Laboratories Ltd)	Lisinopril	2050501
+34799	Lisinopril 20mg tablets (Zentiva)	Lisinopril	2050501
+78	Lisinopril 5mg tablets	Lisinopril	2050501
+43418	Lisinopril 5mg tablets (A A H Pharmaceuticals Ltd)	Lisinopril	2050501
+58294	Lisinopril 5mg tablets (Accord Healthcare Ltd)	Lisinopril	2050501
+45337	Lisinopril 5mg tablets (Actavis UK Ltd)	Lisinopril	2050501
+55456	Lisinopril 5mg tablets (Alliance Healthcare (Distribution) Ltd)	Lisinopril	2050501
+45816	Lisinopril 5mg tablets (Almus Pharmaceuticals Ltd)	Lisinopril	2050501
+53820	Lisinopril 5mg tablets (Arrow Generics Ltd)	Lisinopril	2050501
+66558	Lisinopril 5mg tablets (DE Pharmaceuticals)	Lisinopril	2050501
+65416	Lisinopril 5mg tablets (Lupin (Europe) Ltd)	Lisinopril	2050501
+34471	Lisinopril 5mg tablets (Mylan Ltd)	Lisinopril	2050501
+52088	Lisinopril 5mg tablets (Phoenix Healthcare Distribution Ltd)	Lisinopril	2050501
+60309	Lisinopril 5mg tablets (Relonchem Ltd)	Lisinopril	2050501
+46975	Lisinopril 5mg tablets (Sandoz Ltd)	Lisinopril	2050501
+19204	Lisinopril 5mg tablets (Teva UK Ltd)	Lisinopril	2050501
+59109	Lisinopril 5mg tablets (Tillomed Laboratories Ltd)	Lisinopril	2050501
+60232	Lisinopril 5mg tablets (Zentiva)	Lisinopril	2050501
+11987	Lisinopril 5mg/5ml oral solution	Lisinopril	2050501
+37778	Lisinopril 5mg/5ml oral suspension	Lisinopril	2050501
+54283	Lisinopril 5mg/5ml oral suspension (Special Order)	Lisinopril	2050501
+20975	Lisinopril 7.5mg/5ml oral suspension	Lisinopril	2050501
+54512	Lisinopril Oral solution	Lisinopril	2050501
+41573	Lisopress 10mg tablets (Teva UK Ltd)	Lisinopril	2050501
+41538	Lisopress 2.5mg tablets (Teva UK Ltd)	Lisinopril	2050501
+41522	Lisopress 20mg tablets (Teva UK Ltd)	Lisinopril	2050501
+41532	Lisopress 5mg tablets (Teva UK Ltd)	Lisinopril	2050501
+57944	Perindopril tosilate 2.5mg tablets	0	2050501
+6806	Zestril 10mg tablets (AstraZeneca UK Ltd)	Lisinopril	2050501
+3720	Zestril 2.5mg tablets (AstraZeneca UK Ltd)	Lisinopril	2050501
+57588	Zestril 2.5mg tablets (Mawdsley-Brooks & Company Ltd)	Lisinopril	2050501
+8268	Zestril 20mg tablets (AstraZeneca UK Ltd)	Lisinopril	2050501
+56510	Zestril 20mg tablets (Sigma Pharmaceuticals Plc)	Lisinopril	2050501
+6807	Zestril 5mg tablets (AstraZeneca UK Ltd)	Lisinopril	2050501
+56505	Zestril 5mg tablets (Lexon (UK) Ltd)	Lisinopril	2050501
+39242	Carace 10 Plus tablets (Merck Sharp & Dohme Ltd)	Lisinopril/Hydrochlorothiazide	2050501
+17655	Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+39147	Carace 20 Plus tablets (Merck Sharp & Dohme Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+9764	Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+21231	Caralpha 20mg/12.5mg tablets (Actavis UK Ltd)	Lisinopril/Hydrochlorothiazide	2050501
+6786	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril/Hydrochlorothiazide	02020100/02050501
+37710	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+6468	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril/Hydrochlorothiazide	02020100/02050501
+55399	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+54201	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+33353	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+56244	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+6359	Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+39137	Zestoretic 10 tablets (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+57539	Zestoretic 10 tablets (Sigma Pharmaceuticals Plc)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+2982	Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+38995	Zestoretic 20 tablets (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+14965	Cozaar 100mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium	2050502
+52427	Cozaar 100mg tablets (Necessity Supplies Ltd)	Losartan potassium	2050502
+40571	Cozaar 12.5mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium	2050502
+41232	Cozaar 2.5mg/ml oral suspension (Merck Sharp & Dohme Ltd)	Losartan Potassium	2050502
+4226	Cozaar 25mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium	2050502
+5723	Cozaar 50mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium	2050502
+60780	Generic Sevikar HCT 20mg/5mg/12.5mg tablets	0	2050502
+624	Losartan 100mg tablets	Losartan potassium	2050502
+49588	Losartan 100mg tablets (A A H Pharmaceuticals Ltd)	Losartan potassium	2050502
+61288	Losartan 100mg tablets (Accord Healthcare Ltd)	Losartan potassium	2050502
+54404	Losartan 100mg tablets (Actavis UK Ltd)	Losartan potassium	2050502
+61053	Losartan 100mg tablets (Alliance Healthcare (Distribution) Ltd)	Losartan potassium	2050502
+55446	Losartan 100mg tablets (Bristol Laboratories Ltd)	Losartan potassium	2050502
+60506	Losartan 100mg tablets (Dexcel-Pharma Ltd)	Losartan potassium	2050502
+57028	Losartan 100mg tablets (Mylan Ltd)	Losartan potassium	2050502
+56970	Losartan 100mg tablets (Pfizer Ltd)	Losartan potassium	2050502
+47006	Losartan 100mg tablets (Teva UK Ltd)	Losartan potassium	2050502
+39944	Losartan 12.5mg tablets	Losartan potassium	2050502
+52886	Losartan 12.5mg tablets (A A H Pharmaceuticals Ltd)	Losartan potassium	2050502
+58967	Losartan 12.5mg tablets (Alliance Healthcare (Distribution) Ltd)	Losartan potassium	2050502
+62388	Losartan 12.5mg tablets (DE Pharmaceuticals)	Losartan potassium	2050502
+59340	Losartan 12.5mg tablets (Dexcel-Pharma Ltd)	Losartan potassium	2050502
+66114	Losartan 12.5mg tablets (Mawdsley-Brooks & Company Ltd)	Losartan potassium	2050502
+64888	Losartan 12.5mg tablets (Sigma Pharmaceuticals Plc)	Losartan potassium	2050502
+40711	Losartan 2.5mg/ml oral suspension sugar free	Losartan Potassium	2050502
+520	Losartan 25mg tablets	Losartan potassium	2050502
+50971	Losartan 25mg tablets (A A H Pharmaceuticals Ltd)	Losartan potassium	2050502
+58274	Losartan 25mg tablets (Accord Healthcare Ltd)	Losartan potassium	2050502
+54740	Losartan 25mg tablets (Actavis UK Ltd)	Losartan potassium	2050502
+61495	Losartan 25mg tablets (Aptil Pharma Ltd)	Losartan potassium	2050502
+51186	Losartan 25mg tablets (Arrow Generics Ltd)	Losartan potassium	2050502
+58649	Losartan 25mg tablets (Bristol Laboratories Ltd)	Losartan potassium	2050502
+48398	Losartan 25mg tablets (Dexcel-Pharma Ltd)	Losartan potassium	2050502
+49492	Losartan 25mg tablets (Mylan Ltd)	Losartan potassium	2050502
+63222	Losartan 25mg tablets (Pfizer Ltd)	Losartan potassium	2050502
+55718	Losartan 25mg tablets (Phoenix Healthcare Distribution Ltd)	Losartan potassium	2050502
+59271	Losartan 25mg tablets (Sandoz Ltd)	Losartan potassium	2050502
+63918	Losartan 25mg tablets (Teva UK Ltd)	Losartan potassium	2050502
+59086	Losartan 25mg tablets (Wockhardt UK Ltd)	Losartan potassium	2050502
+61754	Losartan 25mg/5ml oral suspension	Losartan potassium	2050502
+1780	Losartan 50mg tablets	Losartan potassium	2050502
+56104	Losartan 50mg tablets (A A H Pharmaceuticals Ltd)	Losartan potassium	2050502
+54049	Losartan 50mg tablets (Accord Healthcare Ltd)	Losartan potassium	2050502
+51601	Losartan 50mg tablets (Actavis UK Ltd)	Losartan potassium	2050502
+54735	Losartan 50mg tablets (Alliance Healthcare (Distribution) Ltd)	Losartan potassium	2050502
+59750	Losartan 50mg tablets (Aptil Pharma Ltd)	Losartan potassium	2050502
+66551	Losartan 50mg tablets (Bristol Laboratories Ltd)	Losartan potassium	2050502
+54843	Losartan 50mg tablets (Dexcel-Pharma Ltd)	Losartan potassium	2050502
+55296	Losartan 50mg tablets (Mylan Ltd)	Losartan potassium	2050502
+59351	Losartan 50mg tablets (Pfizer Ltd)	Losartan potassium	2050502
+65094	Losartan 50mg tablets (Sandoz Ltd)	Losartan potassium	2050502
+54057	Losartan 50mg tablets (Teva UK Ltd)	Losartan potassium	2050502
+52659	Losartan 50mg/5ml oral solution	Losartan potassium	2050502
+59903	Losartan 50mg/5ml oral suspension	0	2050502
+37747	Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+21423	Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+57796	Cozaar-Comp 50mg/12.5mg tablets (DE Pharmaceuticals)	Losartan potassium/Hydrochlorothiazide	2050504
+4540	Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+55160	Cozaar-Comp 50mg/12.5mg tablets (Sigma Pharmaceuticals Plc)	Losartan potassium/Hydrochlorothiazide	2050504
+38367	Hydrochlorothiazide with losartan 12.5mg with 100mg Tablet	Losartan Potassium/Hydrochlorothiazide	02020100/02050502
+14738	Hydrochlorothiazide with losartan 12.5mg with 50mg Tablet	Losartan Potassium/Hydrochlorothiazide	02020100/02050502
+24632	Hydrochlorothiazide with losartan 25mg with 100mg Tablet	Losartan Potassium/Hydrochlorothiazide	02020100/02050502
+48039	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+10323	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Losartan potassium/Hydrochlorothiazide	2050504
+52189	Losartan 100mg / Hydrochlorothiazide 25mg tablets (A A H Pharmaceuticals Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+6437	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Losartan potassium/Hydrochlorothiazide	2050504
+56975	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+56204	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+66598	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Lupin (Europe) Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+62911	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd)	Losartan potassium/Hydrochlorothiazide	2050504
+17120	Moexipril 15mg tablets	Moexipril hydrochloride	2050501
+15121	Moexipril 7.5mg tablets	Moexipril hydrochloride	2050501
+28725	Perdix 15mg tablets (UCB Pharma Ltd)	Moexipril hydrochloride	2050501
+28724	Perdix 7.5mg tablets (UCB Pharma Ltd)	Moexipril hydrochloride	2050501
+6217	Olmesartan medoxomil 10mg tablets	Olmesartan medoxomil	2050502
+39786	Olmesartan medoxomil 10mg/5ml oral suspension	Olmesartan Medoxomil	2050502
+6285	Olmesartan medoxomil 20mg tablets	Olmesartan medoxomil	2050502
+6351	Olmesartan medoxomil 40mg tablets	Olmesartan medoxomil	2050502
+14983	Olmetec 10mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil	2050502
+18910	Olmetec 20mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil	2050502
+20117	Olmetec 40mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil	2050502
+27520	Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+38026	Coversyl Arginine 10mg tablets (Servier Laboratories Ltd)	Perindopril Arginine	2050501
+38034	Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd)	Perindopril arginine	2050501
+51807	Coversyl Arginine 5mg tablets (DE Pharmaceuticals)	Perindopril arginine	2050501
+37965	Coversyl Arginine 5mg tablets (Servier Laboratories Ltd)	Perindopril arginine	2050501
+50347	Coversyl Arginine 5mg tablets (Waymade Healthcare Plc)	Perindopril arginine	2050501
+37971	Perindopril arginine 10mg tablets	Perindopril Arginine	2050501
+37964	Perindopril arginine 2.5mg tablets	Perindopril Arginine	2050501
+37930	Perindopril arginine 5mg tablets	Perindopril arginine	2050501
+51258	Coversyl Arginine Plus 5mg/1.25mg tablets (DE Pharmaceuticals)	Indapamide/Perindopril arginine	02020100/02050501
+37908	Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd)	Indapamide/Perindopril arginine	02020100/02050501
+56157	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	0	02020100/02050501
+56506	Coversyl 2mg tablets (Dowelhurst Ltd)	Perindopril erbumine	2050501
+5612	Coversyl 2mg tablets (Servier Laboratories Ltd)	Perindopril erbumine	2050501
+56508	Coversyl 4mg tablets (Dowelhurst Ltd)	Perindopril erbumine	2050501
+5800	Coversyl 4mg tablets (Servier Laboratories Ltd)	Perindopril erbumine	2050501
+14960	Coversyl 8mg tablets (Servier Laboratories Ltd)	Perindopril erbumine	2050501
+50402	Perindopril 2mg Tablet (Servier Laboratories Ltd)	Perindopril erbumine	2050501
+593	Perindopril erbumine 2mg tablets	Perindopril erbumine	2050501
+45319	Perindopril erbumine 2mg tablets (A A H Pharmaceuticals Ltd)	Perindopril erbumine	2050501
+43813	Perindopril erbumine 2mg tablets (Actavis UK Ltd)	Perindopril erbumine	2050501
+59972	Perindopril erbumine 2mg tablets (Alliance Healthcare (Distribution) Ltd)	Perindopril erbumine	2050501
+49491	Perindopril erbumine 2mg tablets (Consilient Health Ltd)	Perindopril erbumine	2050501
+66060	Perindopril erbumine 2mg tablets (DE Pharmaceuticals)	Perindopril erbumine	2050501
+58843	Perindopril erbumine 2mg tablets (Kent Pharmaceuticals Ltd)	Perindopril erbumine	2050501
+48049	Perindopril erbumine 2mg tablets (Mylan Ltd)	Perindopril erbumine	2050501
+56516	Perindopril erbumine 2mg tablets (Sandoz Ltd)	Perindopril erbumine	2050501
+56473	Perindopril erbumine 2mg tablets (Sigma Pharmaceuticals Plc)	Perindopril erbumine	2050501
+58874	Perindopril erbumine 2mg tablets (Somex Pharma)	Perindopril erbumine	2050501
+54899	Perindopril erbumine 2mg tablets (Teva UK Ltd)	Perindopril erbumine	2050501
+64602	Perindopril erbumine 2mg tablets (Waymade Healthcare Plc)	Perindopril erbumine	2050501
+97	Perindopril erbumine 4mg tablets	Perindopril erbumine	2050501
+33095	Perindopril erbumine 4mg tablets (A A H Pharmaceuticals Ltd)	Perindopril erbumine	2050501
+61270	Perindopril erbumine 4mg tablets (Accord Healthcare Ltd)	Perindopril erbumine	2050501
+48214	Perindopril erbumine 4mg tablets (Actavis UK Ltd)	Perindopril erbumine	2050501
+38510	Perindopril erbumine 4mg tablets (Apotex UK Ltd)	Perindopril erbumine	2050501
+59770	Perindopril erbumine 4mg tablets (Aurobindo Pharma Ltd)	Perindopril erbumine	2050501
+56162	Perindopril erbumine 4mg tablets (Consilient Health Ltd)	Perindopril erbumine	2050501
+57801	Perindopril erbumine 4mg tablets (Glenmark Pharmaceuticals Europe Ltd)	Perindopril erbumine	2050501
+56472	Perindopril erbumine 4mg tablets (Kent Pharmaceuticals Ltd)	Perindopril erbumine	2050501
+65273	Perindopril erbumine 4mg tablets (Mylan Ltd)	Perindopril erbumine	2050501
+48180	Perindopril erbumine 4mg tablets (Sandoz Ltd)	Perindopril erbumine	2050501
+60065	Perindopril erbumine 4mg tablets (Sigma Pharmaceuticals Plc)	Perindopril erbumine	2050501
+38285	Perindopril erbumine 4mg tablets (Teva UK Ltd)	Perindopril erbumine	2050501
+61117	Perindopril erbumine 4mg/5ml oral solution	0	2050501
+11983	Perindopril erbumine 4mg/5ml oral suspension	Perindopril erbumine	2050501
+6078	Perindopril erbumine 8mg tablets	Perindopril erbumine	2050501
+35731	Perindopril erbumine 8mg tablets (A A H Pharmaceuticals Ltd)	Perindopril erbumine	2050501
+59790	Perindopril erbumine 8mg tablets (Accord Healthcare Ltd)	Perindopril erbumine	2050501
+57701	Perindopril erbumine 8mg tablets (Actavis UK Ltd)	Perindopril erbumine	2050501
+61693	Perindopril erbumine 8mg tablets (Aurobindo Pharma Ltd)	Perindopril erbumine	2050501
+54733	Perindopril erbumine 8mg tablets (Consilient Health Ltd)	Perindopril erbumine	2050501
+54942	Perindopril erbumine 8mg tablets (Mylan Ltd)	Perindopril erbumine	2050501
+53058	Perindopril erbumine 8mg tablets (Sandoz Ltd)	Perindopril erbumine	2050501
+45938	Perindopril erbumine 8mg tablets (Teva UK Ltd)	Perindopril erbumine	2050501
+54986	Perindopril erbumine 8mg/5ml oral suspension	0	2050501
+43012	Perindopril erbumine oral solution	Perindopril Erbumine	2050501
+2927	PERINDOPRIL/TERT-BUTYLAMINE 2 MG TAB	0	0
+50607	Perindopril arginine 2mg with Indapamide 625 micrograms tablet	Perindopril Erbumine/Indapamide	02020100/02050501
+48098	Perindopril arginine 4mg with Indapamide 1.25mg tablet	Perindopril Erbumine/Indapamide	02020100/02050501
+63594	Generic Tritace titration pack tablets	0	2050501
+56079	Perindopril tosilate 10mg tablets	0	2050501
+57333	Perindopril tosilate 5mg tablets	Perindopril tosilate	2050501
+14477	Accupro 10mg tablets (Pfizer Ltd)	Quinapril hydrochloride	2050501
+14478	Accupro 20mg tablets (Pfizer Ltd)	Quinapril hydrochloride	2050501
+15096	Accupro 40mg tablets (Pfizer Ltd)	Quinapril hydrochloride	2050501
+7314	Accupro 5mg tablets (Pfizer Ltd)	Quinapril hydrochloride	2050501
+3929	Quinapril 10mg tablets	Quinapril hydrochloride	2050501
+5159	Quinapril 20mg tablets	Quinapril hydrochloride	2050501
+38854	Quinapril 20mg/5ml oral solution	Quinapril Hydrochloride	2050501
+9731	Quinapril 40mg tablets	Quinapril hydrochloride	2050501
+61292	Quinapril 40mg tablets (Mylan Ltd)	Quinapril hydrochloride	2050501
+6765	Quinapril 5mg tablets	Quinapril hydrochloride	2050501
+38899	Quinil 10mg tablets (Tillomed Laboratories Ltd)	Quinapril hydrochloride	2050501
+46365	Quinil 20mg tablets (Tillomed Laboratories Ltd)	Quinapril hydrochloride	2050501
+42285	Quinil 40mg tablets (Tillomed Laboratories Ltd)	Quinapril hydrochloride	2050501
+40355	Quinil 5mg tablets (Tillomed Laboratories Ltd)	Quinapril hydrochloride	2050501
+64062	Enalapril 1mg/5ml oral suspension	0	2050501
+32934	Lopace 10mg capsules (Discovery Pharmaceuticals)	Ramipril	2050501
+29627	Lopace 2.5mg capsules (Discovery Pharmaceuticals)	Ramipril	2050501
+28586	Lopace 5mg capsules (Discovery Pharmaceuticals)	Ramipril	2050501
+22882	RAMIPRIL	0	0
+147	Ramipril 1.25mg capsules	Ramipril	2050501
+55299	Ramipril 1.25mg capsules (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+45264	Ramipril 1.25mg capsules (Actavis UK Ltd)	Ramipril	2050501
+56704	Ramipril 1.25mg capsules (Alliance Healthcare (Distribution) Ltd)	Ramipril	2050501
+52399	Ramipril 1.25mg capsules (Kent Pharmaceuticals Ltd)	Ramipril	2050501
+32857	Ramipril 1.25mg capsules (Teva UK Ltd)	Ramipril	2050501
+57073	Ramipril 1.25mg capsules (Waymade Healthcare Plc)	Ramipril	2050501
+34698	Ramipril 1.25mg capsules (Zentiva)	Ramipril	2050501
+65443	Ramipril 1.25mg Tablet (Sovereign Medical Ltd)	Ramipril	2050501
+761	Ramipril 1.25mg tablets	Ramipril	2050501
+57658	Ramipril 1.25mg tablets (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+56148	Ramipril 1.25mg tablets (Kent Pharmaceuticals Ltd)	Ramipril	2050501
+57235	Ramipril 1.25mg tablets (Sandoz Ltd)	Ramipril	2050501
+61985	Ramipril 1.25mg tablets (Teva UK Ltd)	Ramipril	2050501
+62039	Ramipril 1.25mg tablets (Zentiva)	Ramipril	2050501
+45340	Ramipril 10mg Capsule (Actavis UK Ltd)	Ramipril	2050501
+34583	Ramipril 10mg Capsule (Dexcel-Pharma Ltd)	Ramipril	2050501
+34893	Ramipril 10mg Capsule (IVAX Pharmaceuticals UK Ltd)	Ramipril	2050501
+34877	Ramipril 10mg Capsule (Sovereign Medical Ltd)	Ramipril	2050501
+82	Ramipril 10mg capsules	Ramipril	2050501
+34943	Ramipril 10mg capsules (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+49164	Ramipril 10mg capsules (Actavis UK Ltd)	Ramipril	2050501
+56356	Ramipril 10mg capsules (Alliance Healthcare (Distribution) Ltd)	Ramipril	2050501
+61339	Ramipril 10mg capsules (Almus Pharmaceuticals Ltd)	Ramipril	2050501
+56169	Ramipril 10mg capsules (Arrow Generics Ltd)	Ramipril	2050501
+59788	Ramipril 10mg capsules (Bristol Laboratories Ltd)	Ramipril	2050501
+66669	Ramipril 10mg capsules (DE Pharmaceuticals)	Ramipril	2050501
+34357	Ramipril 10mg capsules (Genus Pharmaceuticals Ltd)	Ramipril	2050501
+52407	Ramipril 10mg capsules (Kent Pharmaceuticals Ltd)	Ramipril	2050501
+34651	Ramipril 10mg capsules (Mylan Ltd)	Ramipril	2050501
+56763	Ramipril 10mg capsules (Phoenix Healthcare Distribution Ltd)	Ramipril	2050501
+34710	Ramipril 10mg capsules (Sandoz Ltd)	Ramipril	2050501
+56855	Ramipril 10mg capsules (Sigma Pharmaceuticals Plc)	Ramipril	2050501
+33894	Ramipril 10mg capsules (Teva UK Ltd)	Ramipril	2050501
+57346	Ramipril 10mg capsules (Waymade Healthcare Plc)	Ramipril	2050501
+34657	Ramipril 10mg capsules (Zentiva)	Ramipril	2050501
+756	Ramipril 10mg tablets	Ramipril	2050501
+40384	Ramipril 10mg tablets (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+53612	Ramipril 10mg tablets (Alliance Healthcare (Distribution) Ltd)	Ramipril	2050501
+56038	Ramipril 10mg tablets (Pfizer Ltd)	Ramipril	2050501
+63010	Ramipril 10mg tablets (Phoenix Healthcare Distribution Ltd)	Ramipril	2050501
+66162	Ramipril 10mg tablets (Teva UK Ltd)	Ramipril	2050501
+50509	Ramipril 10mg/5ml oral solution	Ramipril	2050501
+35007	Ramipril 10mg/5ml oral suspension	Ramipril	2050501
+654	Ramipril 2.5/5mg/10mg capsule	Ramipril	2050501
+38308	Ramipril 2.5/5mg/10mg tablet	Ramipril	2050501
+34732	Ramipril 2.5mg Capsule (Dexcel-Pharma Ltd)	Ramipril	2050501
+709	Ramipril 2.5mg capsules	Ramipril	2050501
+34528	Ramipril 2.5mg capsules (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+47998	Ramipril 2.5mg capsules (Actavis UK Ltd)	Ramipril	2050501
+51714	Ramipril 2.5mg capsules (Alliance Healthcare (Distribution) Ltd)	Ramipril	2050501
+48053	Ramipril 2.5mg capsules (Almus Pharmaceuticals Ltd)	Ramipril	2050501
+54298	Ramipril 2.5mg capsules (Arrow Generics Ltd)	Ramipril	2050501
+53621	Ramipril 2.5mg capsules (Bristol Laboratories Ltd)	Ramipril	2050501
+34432	Ramipril 2.5mg capsules (Genus Pharmaceuticals Ltd)	Ramipril	2050501
+59557	Ramipril 2.5mg capsules (Kent Pharmaceuticals Ltd)	Ramipril	2050501
+34567	Ramipril 2.5mg capsules (Mylan Ltd)	Ramipril	2050501
+59603	Ramipril 2.5mg capsules (Phoenix Healthcare Distribution Ltd)	Ramipril	2050501
+33811	Ramipril 2.5mg capsules (Ranbaxy (UK) Ltd)	Ramipril	2050501
+34505	Ramipril 2.5mg capsules (Sandoz Ltd)	Ramipril	2050501
+54620	Ramipril 2.5mg capsules (Sigma Pharmaceuticals Plc)	Ramipril	2050501
+34490	Ramipril 2.5mg capsules (Teva UK Ltd)	Ramipril	2050501
+56013	Ramipril 2.5mg capsules (Waymade Healthcare Plc)	Ramipril	2050501
+34431	Ramipril 2.5mg capsules (Zentiva)	Ramipril	2050501
+6314	Ramipril 2.5mg tablets	Ramipril	2050501
+61499	Ramipril 2.5mg tablets (Actavis UK Ltd)	Ramipril	2050501
+63442	Ramipril 2.5mg tablets (Teva UK Ltd)	Ramipril	2050501
+62918	Ramipril 2.5mg/5ml oral solution	Ramipril	2050501
+47021	Ramipril 2.5mg/5ml oral solution sugar free	Ramipril	2050501
+64055	Ramipril 2.5mg/5ml oral solution sugar free (Waymade Healthcare Plc)	Ramipril	2050501
+11937	Ramipril 2.5mg/5ml oral suspension	Ramipril	2050501
+34589	Ramipril 5mg Capsule (Dexcel-Pharma Ltd)	Ramipril	2050501
+34652	Ramipril 5mg Capsule (Sovereign Medical Ltd)	Ramipril	2050501
+80	Ramipril 5mg capsules	Ramipril	2050501
+34540	Ramipril 5mg capsules (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+48008	Ramipril 5mg capsules (Actavis UK Ltd)	Ramipril	2050501
+54941	Ramipril 5mg capsules (Alliance Healthcare (Distribution) Ltd)	Ramipril	2050501
+61067	Ramipril 5mg capsules (Almus Pharmaceuticals Ltd)	Ramipril	2050501
+51701	Ramipril 5mg capsules (Bristol Laboratories Ltd)	Ramipril	2050501
+65936	Ramipril 5mg capsules (DE Pharmaceuticals)	Ramipril	2050501
+65749	Ramipril 5mg capsules (Ennogen Pharma Ltd)	Ramipril	2050501
+34390	Ramipril 5mg capsules (Genus Pharmaceuticals Ltd)	Ramipril	2050501
+56129	Ramipril 5mg capsules (Kent Pharmaceuticals Ltd)	Ramipril	2050501
+34429	Ramipril 5mg capsules (Mylan Ltd)	Ramipril	2050501
+60730	Ramipril 5mg capsules (Phoenix Healthcare Distribution Ltd)	Ramipril	2050501
+34539	Ramipril 5mg capsules (Sandoz Ltd)	Ramipril	2050501
+52197	Ramipril 5mg capsules (Sigma Pharmaceuticals Plc)	Ramipril	2050501
+34412	Ramipril 5mg capsules (Teva UK Ltd)	Ramipril	2050501
+55798	Ramipril 5mg capsules (Waymade Healthcare Plc)	Ramipril	2050501
+34382	Ramipril 5mg capsules (Zentiva)	Ramipril	2050501
+6288	Ramipril 5mg tablets	Ramipril	2050501
+65599	Ramipril 5mg tablets (A A H Pharmaceuticals Ltd)	Ramipril	2050501
+57864	Ramipril 5mg tablets (Sigma Pharmaceuticals Plc)	Ramipril	2050501
+62958	Ramipril 5mg tablets (Teva UK Ltd)	Ramipril	2050501
+62036	Ramipril 5mg tablets (Waymade Healthcare Plc)	Ramipril	2050501
+61694	Ramipril 5mg tablets (Zentiva)	Ramipril	2050501
+45554	Ramipril 5mg/5ml oral solution	Ramipril	2050501
+46890	Ramipril 5mg/5ml oral suspension	Ramipril	2050501
+66329	Ramipril oral solution	Ramipril	2050501
+31288	TRITACE	0	0
+24214	TRITACE 1.25 MG TAB	0	0
+9646	Tritace 1.25mg capsules (Aventis Pharma)	Ramipril	2050501
+42081	Tritace 1.25mg Tablet (Sterwin Medicines)	Ramipril	2050501
+6261	Tritace 1.25mg tablets (Sanofi)	Ramipril	2050501
+9693	Tritace 10mg capsules (Sanofi)	Ramipril	2050501
+39355	Tritace 10mg Tablet (Sterwin Medicines)	Ramipril	2050501
+9915	Tritace 10mg tablets (Sanofi)	Ramipril	2050501
+29964	TRITACE 2.5 MG TAB	0	0
+5275	Tritace 2.5mg capsules (Sanofi)	Ramipril	2050501
+6364	Tritace 2.5mg tablets (Sanofi)	Ramipril	2050501
+5735	Tritace 5mg capsules (Sanofi)	Ramipril	2050501
+6362	Tritace 5mg tablets (Sanofi)	Ramipril	2050501
+6200	Tritace titration pack capsules (Sanofi)	0	0
+39421	Tritace titration pack tablets (Sanofi)	0	2050501
+17686	Micardis 20mg tablets (Boehringer Ingelheim Ltd)	Telmisartan	2050502
+13821	Micardis 40mg tablets (Boehringer Ingelheim Ltd)	Telmisartan	2050502
+17545	Micardis 80mg tablets (Boehringer Ingelheim Ltd)	Telmisartan	2050502
+6243	Telmisartan 20mg tablets	Telmisartan	2050502
+61177	Telmisartan 20mg tablets (Sigma Pharmaceuticals Plc)	Telmisartan	2050502
+5988	Telmisartan 40mg tablets	Telmisartan	2050502
+65274	Telmisartan 40mg tablets (Actavis UK Ltd)	Telmisartan	2050502
+12874	Telmisartan 80mg tablets	Telmisartan	2050502
+62376	Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd)	Telmisartan/Hydrochlorothiazide	2050504
+18202	MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd)	Telmisartan/Hydrochlorothiazide	2050504
+17689	MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd)	Telmisartan/Hydrochlorothiazide	2050504
+63890	MicardisPlus 80mg/12.5mg tablets (Waymade Healthcare Plc)	Telmisartan/Hydrochlorothiazide	2050504
+14870	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan/Hydrochlorothiazide	2050504
+16161	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan/Hydrochlorothiazide	2050504
+8025	Gopten 1mg capsules (Abbott Laboratories Ltd)	Trandolapril	2050501
+8026	Gopten 2mg capsules (Abbott Laboratories Ltd)	Trandolapril	2050501
+29130	Gopten 4mg capsules (Abbott Laboratories Ltd)	Trandolapril	2050501
+16710	Gopten 500microgram capsules (Abbott Laboratories Ltd)	Trandolapril	2050501
+65389	Gopten 500microgram capsules (Waymade Healthcare Plc)	Trandolapril	2050501
+31810	Odrik 1mg capsules (Aventis Pharma)	Trandolapril	2050501
+28902	Odrik 2mg capsules (Aventis Pharma)	Trandolapril	2050501
+31307	Odrik 500microgram capsules (Aventis Pharma)	Trandolapril	2050501
+4103	Trandolapril 1mg capsules	Trandolapril	2050501
+5047	Trandolapril 2mg capsules	Trandolapril	2050501
+66623	Trandolapril 2mg capsules (A A H Pharmaceuticals Ltd)	Trandolapril	2050501
+9948	Trandolapril 4mg capsules	Trandolapril	2050501
+54345	Trandolapril 4mg capsules (Arrow Generics Ltd)	Trandolapril	2050501
+65570	Trandolapril 4mg capsules (Teva UK Ltd)	Trandolapril	2050501
+7419	Trandolapril 500microgram capsules	Trandolapril	2050501
+60757	Trandolapril 500microgram capsules (Teva UK Ltd)	Trandolapril	2050501
+6518	Diovan 160mg capsules (Novartis Pharmaceuticals UK Ltd)	Valsartan	2050502
+45600	Diovan 160mg Tablet (Novartis Pharmaceuticals UK Ltd)	Valsartan	2050502
+39199	Diovan 320mg tablets (Novartis Pharmaceuticals UK Ltd)	Valsartan	2050502
+11251	Diovan 40mg capsules (Novartis Pharmaceuticals UK Ltd)	Valsartan	2050502
+24359	Diovan 40mg tablets (Novartis Pharmaceuticals UK Ltd)	Valsartan	2050502
+11252	Diovan 80mg capsules (Novartis Pharmaceuticals UK Ltd)	Valsartan	2050502
+4645	Valsartan 160mg capsules	Valsartan	2050502
+55187	Valsartan 160mg capsules (Arrow Generics Ltd)	Valsartan	2050502
+53833	Valsartan 160mg capsules (Mylan Ltd)	Valsartan	2050502
+61442	Valsartan 160mg capsules (Teva UK Ltd)	Valsartan	2050502
+55821	Valsartan 160mg capsules (Teva UK Ltd)	Valsartan	0
+60076	Valsartan 160mg capsules (Waymade Healthcare Plc)	Valsartan	2050502
+44778	Valsartan 160mg tablets	Valsartan	2050502
+37573	Valsartan 320mg tablets	Valsartan	2050502
+59029	Valsartan 3mg/1ml oral solution	Valsartan	2050502
+575	Valsartan 40mg capsules	Valsartan	2050502
+58669	Valsartan 40mg capsules (Teva UK Ltd)	Valsartan	2050502
+54726	Valsartan 40mg capsules (Teva UK Ltd)	Valsartan	0
+14943	Valsartan 40mg tablets	Valsartan	2050502
+3222	Valsartan 80mg capsules	Valsartan	2050502
+59448	Valsartan 80mg capsules (A A H Pharmaceuticals Ltd)	Valsartan	2050502
+58910	Valsartan 80mg capsules (Sigma Pharmaceuticals Plc)	Valsartan	2050502
+38395	Valsartan 80mg tablets	Valsartan	2050502
+6877	Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Valsartan/Hydrochlorothiazide	2050504
+25382	Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd)	Valsartan/Hydrochlorothiazide	2050504
+24484	Hydrochlorothiazide with valsartan 12.5mg with 160mg Tablet	Valsartan/Hydrochlorothiazide	02020100/02050502
+24268	Hydrochlorothiazide with valsartan 12.5mg with 80mg Tablet	Valsartan/Hydrochlorothiazide	02020100/02050502
+23456	Hydrochlorothiazide with valsartan 25mg with 160mg Tablet	Valsartan/Hydrochlorothiazide	02020100/02050502
+11864	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Valsartan/Hydrochlorothiazide	2050504
+14283	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Valsartan/Hydrochlorothiazide	2050504
+6856	Amlodipine 10mg tablets	Amlodipine	2060200
+34093	Amlodipine 10mg tablets (A A H Pharmaceuticals Ltd)	Amlodipine	2060200
+56147	Amlodipine 10mg tablets (Accord Healthcare Ltd)	Amlodipine	2060200
+36202	Amlodipine 10mg tablets (Actavis UK Ltd)	Amlodipine	2060200
+54515	Amlodipine 10mg tablets (Alliance Healthcare (Distribution) Ltd)	Amlodipine	2060200
+54654	Amlodipine 10mg tablets (Almus Pharmaceuticals Ltd)	Amlodipine	2060200
+58580	Amlodipine 10mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd)	Amlodipine	2060200
+56334	Amlodipine 10mg tablets (Bristol Laboratories Ltd)	Amlodipine	2060200
+49636	Amlodipine 10mg tablets (DE Pharmaceuticals)	Amlodipine	2060200
+63515	Amlodipine 10mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Amlodipine	2060200
+59001	Amlodipine 10mg tablets (Mylan Ltd)	Amlodipine	2060200
+60244	Amlodipine 10mg tablets (Phoenix Healthcare Distribution Ltd)	Amlodipine	2060200
+54696	Amlodipine 10mg tablets (Sandoz Ltd)	Amlodipine	2060200
+59762	Amlodipine 10mg tablets (Teva UK Ltd)	Amlodipine	2060200
+66817	Amlodipine 10mg tablets (Wockhardt UK Ltd)	Amlodipine	2060200
+42210	Amlodipine 10mg tablets (Zentiva)	Amlodipine	2060200
+52440	Amlodipine 10mg/5ml oral solution	0	2060200
+64623	Amlodipine 10mg/5ml oral solution sugar free	0	2060200
+45070	Amlodipine 10mg/5ml oral suspension	Amlodipine	2060200
+47002	Amlodipine 10mg/5ml sugar free Oral suspension	Amlodipine	2060200
+54983	Amlodipine 2.5mg/5ml oral suspension	Amlodipine	2060200
+61374	Amlodipine 4mg/5ml oral suspension	Amlodipine	2060200
+749	Amlodipine 5mg tablets	Amlodipine	2060200
+32595	Amlodipine 5mg tablets (A A H Pharmaceuticals Ltd)	Amlodipine	2060200
+61422	Amlodipine 5mg tablets (Accord Healthcare Ltd)	Amlodipine	2060200
+53868	Amlodipine 5mg tablets (Actavis UK Ltd)	Amlodipine	2060200
+64441	Amlodipine 5mg tablets (Alliance Healthcare (Distribution) Ltd)	Amlodipine	2060200
+43880	Amlodipine 5mg tablets (Almus Pharmaceuticals Ltd)	Amlodipine	2060200
+54633	Amlodipine 5mg tablets (Bristol Laboratories Ltd)	Amlodipine	2060200
+65745	Amlodipine 5mg tablets (DE Pharmaceuticals)	Amlodipine	2060200
+39804	Amlodipine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)	Amlodipine	2060200
+64606	Amlodipine 5mg tablets (Focus Pharmaceuticals Ltd)	Amlodipine	2060200
+32917	Amlodipine 5mg tablets (IVAX Pharmaceuticals UK Ltd)	Amlodipine	2060200
+66430	Amlodipine 5mg tablets (Kent Pharmaceuticals Ltd)	Amlodipine	2060200
+64327	Amlodipine 5mg tablets (Mylan Ltd)	Amlodipine	2060200
+66574	Amlodipine 5mg tablets (Phoenix Healthcare Distribution Ltd)	Amlodipine	2060200
+45279	Amlodipine 5mg tablets (Sandoz Ltd)	Amlodipine	2060200
+64447	Amlodipine 5mg tablets (Somex Pharma)	Amlodipine	2060200
+39914	Amlodipine 5mg tablets (Teva UK Ltd)	Amlodipine	2060200
+64418	Amlodipine 5mg tablets (Waymade Healthcare Plc)	Amlodipine	2060200
+43470	Amlodipine 5mg tablets (Wockhardt UK Ltd)	Amlodipine	2060200
+46724	Amlodipine 5mg/5ml oral solution	Amlodipine	2060200
+64166	Amlodipine 5mg/5ml oral solution sugar free	0	2060200
+16162	Amlodipine 5mg/5ml oral suspension	Amlodipine	2060200
+71	Amlodipine besilate 10mg tablets	Amlodipine	2060200
+29	Amlodipine besilate 5mg tablets	Amlodipine	2060200
+6477	Amlodipine maleate 10mg tablets	Amlodipine	2060200
+729	Amlodipine maleate 5mg tablets	Amlodipine	2060200
+46233	Amlodipine Oral solution	Amlodipine	2060200
+31761	Amlostin 10mg tablets (Discovery Pharmaceuticals)	Amlodipine	2060200
+17640	Amlostin 5mg tablets (Discovery Pharmaceuticals)	Amlodipine	2060200
+5914	Istin 10mg tablets (Pfizer Ltd)	Amlodipine	2060200
+3917	Istin 5mg tablets (Pfizer Ltd)	Amlodipine	2060200
+46355	Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/Olmesartan medoxomil/Amlodipine besilate	2050502
+53220	Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil	2050502
+40668	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Olmesartan medoxomil/Amlodipine besilate	02050502/02060200
+40639	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Olmesartan medoxomil/Amlodipine besilate	02050502/02060200
+41203	Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Amlodipine besilate	02050502/02060200
+41205	Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Amlodipine besilate	02050502/02060200
+60684	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Perindopril erbumine/Amlodipine besilate	02050501/02060200
+60067	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Perindopril erbumine/Amlodipine besilate	02050501/02060200
+63149	Perindopril erbumine 8mg / Amlodipine 10mg tablets	0	02050501/02060200
+60744	Perindopril erbumine 8mg / Amlodipine 5mg tablets	0	02050501/02060200
+35317	Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd)	Valsartan/Amlodipine besilate	2060200
+35304	Valsartan 160mg with amlodipine 10mg tablets	Amlodipine Besilate/Valsartan	02050502/02060200
+35173	Valsartan 160mg with amlodipine 5mg tablets	Amlodipine Besilate/Valsartan	02050502/02060200
+35174	Valsartan 80mg with amlodipine 5mg tablets	Amlodipine Besilate/Valsartan	02050502/02060200
+46687	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+46715	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+55358	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+46792	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+47467	Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet	Amlodipine/Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+9374	Adizem 60mg Modified-release tablet (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+517	Adizem sr 120mg Modified-release capsule (Napp Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+4852	Adizem sr 120mg Modified-release tablet (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+2811	Adizem sr 180mg Modified-release capsule (Napp Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+3118	Adizem sr 90mg Modified-release capsule (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+8558	Adizem xl 120mg Capsule (Napp Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+9240	Adizem xl 180mg Capsule (Napp Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+793	Adizem xl 240mg Capsule (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+6309	Adizem xl 300mg Capsule (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+38818	Adizem-SR 120mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+62207	Adizem-SR 120mg capsules (Waymade Healthcare Plc)	Diltiazem hydrochloride	2060200
+38964	Adizem-SR 120mg tablets (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+65504	Adizem-SR 180mg capsules (Lexon (UK) Ltd)	Diltiazem hydrochloride	2060200
+38831	Adizem-SR 180mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+48870	Adizem-SR 90mg capsules (DE Pharmaceuticals)	Diltiazem hydrochloride	2060200
+38632	Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+65636	Adizem-XL 120mg capsules (Lexon (UK) Ltd)	Diltiazem hydrochloride	2060200
+38865	Adizem-XL 120mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+65602	Adizem-XL 120mg capsules (Waymade Healthcare Plc)	Diltiazem hydrochloride	2060200
+9211	ADIZEM-XL 180 MG CAP	0	0
+52276	Adizem-XL 180mg capsules (DE Pharmaceuticals)	Diltiazem hydrochloride	2060200
+38855	Adizem-XL 180mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+10267	Adizem-XL 200mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+38882	Adizem-XL 240mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+60620	Adizem-XL 240mg capsules (Waymade Healthcare Plc)	Diltiazem hydrochloride	2060200
+38634	Adizem-XL 300mg capsules (Napp Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+13410	Angiozem 60mg modified-release tablets (Ashbourne Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+16850	Angiozem CR 120mg tablets (Ashbourne Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+12705	Angiozem CR 90mg tablets (Ashbourne Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+9410	Angitil SR 120 capsules (Ethypharm UK Ltd)	Diltiazem hydrochloride	2060200
+5054	Angitil SR 180 capsules (Ethypharm UK Ltd)	Diltiazem hydrochloride	2060200
+11223	Angitil SR 90 capsules (Ethypharm UK Ltd)	Diltiazem hydrochloride	2060200
+13033	Angitil XL 240 capsules (Ethypharm UK Ltd)	Diltiazem hydrochloride	2060200
+15288	Angitil XL 300 capsules (Ethypharm UK Ltd)	Diltiazem hydrochloride	2060200
+41489	Bi-Carzem SR 120mg capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+28949	Bi-carzem sr 120mg Modified-release capsule (Tillomed Laboratories Ltd)	Diltiazem Hydrochloride	2060200
+39171	Bi-Carzem SR 60mg capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+20642	Bi-carzem sr 60mg Modified-release capsule (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+39298	Bi-Carzem SR 90mg capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+23233	Bi-carzem sr 90mg Modified-release capsule (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+31489	Bi-carzem xl 240mg Capsule (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+47724	Bi-Carzem XL 240mg capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+44887	Bi-carzem xl 300mg Capsule (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+22619	Britiazim 60mg Modified-release tablet (Thames Laboratories Ltd)	Diltiazem hydrochloride	2060200
+29676	Calazem 60mg Modified-release tablet (Berk Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+18975	Calcicard 60mg Tablet (3M Health Care Ltd)	Diltiazem hydrochloride	2060200
+11973	Calcicard CR 120mg tablets (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+9723	Calcicard CR 90mg tablets (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+25777	Dilcardia SR 120mg capsules (Mylan Ltd)	Diltiazem hydrochloride	2060200
+21145	Dilcardia SR 60mg capsules (Mylan Ltd)	Diltiazem hydrochloride	2060200
+18379	Dilcardia SR 90mg capsules (Mylan Ltd)	Diltiazem hydrochloride	2060200
+32658	Dilcardia xl 120mg Modified-release capsule (Generics (UK) Ltd)	Diltiazem Hydrochloride	2060200
+15221	Dilcardia xl 180mg Modified-release capsule (Generics (UK) Ltd)	Diltiazem Hydrochloride	2060200
+26460	Dilcardia xl 240mg Modified-release capsule (Generics (UK) Ltd)	Diltiazem hydrochloride	2060200
+30197	Diltiazem 120mg modified-release capsules	Diltiazem hydrochloride	2060200
+48288	Diltiazem 120mg modified-release capsules (A A H Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+49289	Diltiazem 120mg modified-release capsules (Alliance Healthcare (Distribution) Ltd)	Diltiazem hydrochloride	2060200
+62912	Diltiazem 120mg modified-release capsules (AM Distributions (Yorkshire) Ltd)	Diltiazem hydrochloride	2060200
+57208	Diltiazem 120mg modified-release capsules (Cubic Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+61532	Diltiazem 120mg modified-release capsules (Sigma Pharmaceuticals Plc)	Diltiazem hydrochloride	2060200
+219	Diltiazem 120mg modified-release tablets	Diltiazem hydrochloride	2060200
+43430	Diltiazem 120mg modified-release tablets (A A H Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+49001	Diltiazem 120mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)	Diltiazem hydrochloride	2060200
+61010	Diltiazem 120mg modified-release tablets (Cubic Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+62064	Diltiazem 120mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	Diltiazem hydrochloride	2060200
+1995	Diltiazem 12hr 120mg modified-release capsules	Diltiazem Hydrochloride	2060200
+3061	Diltiazem 12hr 180mg modified-release capsules	Diltiazem Hydrochloride	2060200
+30242	Diltiazem 180mg modified-release capsules	Diltiazem hydrochloride	2060200
+4635	Diltiazem 200mg modified-release capsules	Diltiazem hydrochloride	2060200
+4808	Diltiazem 240mg modified-release capsules	Diltiazem hydrochloride	2060200
+2663	Diltiazem 240mg modified-release capsules	Diltiazem Hydrochloride	2060200
+66701	Diltiazem 240mg modified-release capsules (DE Pharmaceuticals)	Diltiazem hydrochloride	2060200
+66850	Diltiazem 240mg modified-release capsules (Icarus Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+9708	Diltiazem 24hr 120mg modified-release capsules	Diltiazem Hydrochloride	2060200
+4923	Diltiazem 24hr 180mg modified-release capsules	Diltiazem Hydrochloride	2060200
+5326	Diltiazem 24hr 300mg modified-release capsules	Diltiazem Hydrochloride	2060200
+5348	Diltiazem 300mg modified-release capsules	Diltiazem hydrochloride	2060200
+13926	Diltiazem 360mg modified-release capsules	Diltiazem hydrochloride	2060200
+2453	Diltiazem 60mg modified-release capsules	Diltiazem Hydrochloride	2060200
+636	Diltiazem 60mg modified-release capsules	Diltiazem hydrochloride	2060200
+18404	Diltiazem 60mg modified-release capsules (A A H Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+48272	Diltiazem 60mg modified-release capsules (Alliance Healthcare (Distribution) Ltd)	Diltiazem hydrochloride	2060200
+61245	Diltiazem 60mg modified-release capsules (Sigma Pharmaceuticals Plc)	Diltiazem hydrochloride	2060200
+1836	Diltiazem 60mg modified-release tablets	Diltiazem hydrochloride	2060200
+21763	Diltiazem 60mg modified-release tablets (A A H Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+46937	Diltiazem 60mg modified-release tablets (Actavis UK Ltd)	Diltiazem hydrochloride	2060200
+41635	Diltiazem 60mg modified-release tablets (IVAX Pharmaceuticals UK Ltd)	Diltiazem hydrochloride	2060200
+32870	Diltiazem 60mg modified-release tablets (Sterwin Medicines)	Diltiazem hydrochloride	2060200
+21778	Diltiazem 60mg modified-release tablets (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+1538	Diltiazem 60mg tablets	Diltiazem Hydrochloride	2060200
+55257	Diltiazem 60mg/5ml oral solution	Diltiazem hydrochloride	2060200
+11922	Diltiazem 60mg/5ml oral suspension	Diltiazem hydrochloride	2060200
+1686	Diltiazem 90mg modified-release capsules	Diltiazem hydrochloride	2060200
+48282	Diltiazem 90mg modified-release capsules (A A H Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+48457	Diltiazem 90mg modified-release capsules (Alliance Healthcare (Distribution) Ltd)	Diltiazem hydrochloride	2060200
+56758	Diltiazem 90mg modified-release capsules (Cubic Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+4732	Diltiazem 90mg modified-release tablets	Diltiazem hydrochloride	2060200
+27136	Diltiazem 90mg modified-release tablets (A A H Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+49390	Diltiazem 90mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)	Diltiazem hydrochloride	2060200
+62065	Diltiazem 90mg modified-release tablets (Colorama Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+57859	Diltiazem 90mg modified-release tablets (Cubic Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+32089	Diltiazem HCl 120mg Modified-release capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+31676	Diltiazem HCl 120mg Modified-release tablet (Actavis UK Ltd)	Diltiazem hydrochloride	2060200
+34824	Diltiazem HCl 120mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd)	Diltiazem hydrochloride	2060200
+42804	Diltiazem HCl 180mg Capsule (PLIVA Pharma Ltd)	Diltiazem Hydrochloride	2060200
+18403	Diltiazem HCl 180mg Modified-release capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+45759	Diltiazem HCl 240mg Capsule (PLIVA Pharma Ltd)	Diltiazem hydrochloride	2060200
+27685	Diltiazem HCl 300mg Capsule (PLIVA Pharma Ltd)	Diltiazem hydrochloride	2060200
+34581	Diltiazem HCl 60mg Modified-release tablet (Kent Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+38066	Diltiazem HCl 60mg Modified-release tablet (Lagap)	Diltiazem hydrochloride	2060200
+32262	Diltiazem HCl 60mg Tablet (C P Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+21773	Diltiazem HCl 60mg Tablet (Generics (UK) Ltd)	Diltiazem hydrochloride	2060200
+34377	Diltiazem HCl 90mg Modified-release capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+12639	Diltiazem HCl 90mg Modified-release tablet (Actavis UK Ltd)	Diltiazem hydrochloride	2060200
+34475	Diltiazem HCl 90mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd)	Diltiazem hydrochloride	2060200
+15659	DILTIAZEM HCL S/R 180 CAP	0	0
+9094	DILTIAZEM HCl SR 300 MG CAP	0	0
+8024	DILTIAZEM HCl XL 300 MG CAP	0	0
+30491	DILTIAZEM HYDROCHLORIDE	0	0
+42731	Diltiazem sr 120mg Capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+47415	Diltiazem sr 60mg Capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+27135	Diltiazem sr 90mg Capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+42819	Diltiazem xl 240mg Capsule (Hillcross Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+16038	Dilzem SR 120 capsules (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+5194	Dilzem sr 120mg Capsule (Elan Pharma)	Diltiazem Hydrochloride	2060200
+11770	Dilzem SR 60 capsules (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+5513	Dilzem sr 60mg Capsule (Elan Pharma)	Diltiazem hydrochloride	2060200
+13302	Dilzem SR 90 capsules (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+4308	Dilzem sr 90mg Capsule (Elan Pharma)	Diltiazem hydrochloride	2060200
+13240	Dilzem XL 120 capsules (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+66635	Dilzem XL 180 capsules (DE Pharmaceuticals)	Diltiazem hydrochloride	2060200
+59098	Dilzem XL 180 capsules (Lexon (UK) Ltd)	Diltiazem hydrochloride	2060200
+60415	Dilzem XL 180 capsules (Sigma Pharmaceuticals Plc)	Diltiazem hydrochloride	2060200
+13075	Dilzem XL 180 capsules (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+59863	Dilzem XL 240 capsules (Lexon (UK) Ltd)	Diltiazem hydrochloride	2060200
+13127	Dilzem XL 240 capsules (Teva UK Ltd)	Diltiazem hydrochloride	2060200
+3370	Dilzem xl mr 120mg Modified-release capsule (Elan Pharma)	Diltiazem Hydrochloride	2060200
+3676	Dilzem xl mr 180mg Modified-release capsule (Elan Pharma)	Diltiazem Hydrochloride	2060200
+2686	Dilzem xl mr 240mg Modified-release capsule (Elan Pharma)	Diltiazem hydrochloride	2060200
+18852	Disogram SR 120mg capsules (Ranbaxy (UK) Ltd)	Diltiazem hydrochloride	2060200
+18874	Disogram SR 180mg capsules (Ranbaxy (UK) Ltd)	Diltiazem hydrochloride	2060200
+19426	Disogram SR 240mg capsules (Ranbaxy (UK) Ltd)	Diltiazem hydrochloride	2060200
+19440	Disogram SR 300mg capsules (Ranbaxy (UK) Ltd)	Diltiazem hydrochloride	2060200
+18834	Disogram SR 60mg capsules (Ranbaxy (UK) Ltd)	Diltiazem hydrochloride	2060200
+18830	Disogram SR 90mg capsules (Ranbaxy (UK) Ltd)	Diltiazem hydrochloride	2060200
+47530	Horizem SR 60mg capsules (Horizon lifecare)	Diltiazem hydrochloride	2060200
+35696	Kenzem SR 120mg capsules (Kent Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+37774	Kenzem SR 60mg capsules (Kent Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+27401	Kenzem SR 90mg capsules (Kent Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+21918	Optil 60mg modified-release tablets (Opus Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+26267	Optil sr 120mg Modified-release capsule (Opus Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+26269	Optil sr 180mg Modified-release capsule (Opus Pharmaceuticals Ltd)	Diltiazem Hydrochloride	2060200
+23733	Optil sr 90mg Modified-release capsule (Opus Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+26309	Optil xl 240mg Modified-release capsule (Opus Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+26270	Optil xl 300mg Modified-release capsule (Opus Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+21795	Retalzem 60 modified-release tablets (Kent Pharmaceuticals Ltd)	Diltiazem hydrochloride	2060200
+2528	Slozem 120mg capsules (Merck Serono Ltd)	Diltiazem hydrochloride	2060200
+5234	Slozem 180mg capsules (Merck Serono Ltd)	Diltiazem hydrochloride	2060200
+4408	Slozem 240mg capsules (Merck Serono Ltd)	Diltiazem hydrochloride	2060200
+17586	Slozem 300mg capsules (Merck Serono Ltd)	Diltiazem hydrochloride	2060200
+56467	Tildiem 60mg modified-release tablets (DE Pharmaceuticals)	Diltiazem hydrochloride	2060200
+2888	Tildiem 60mg modified-release tablets (Sanofi)	Diltiazem hydrochloride	2060200
+57594	Tildiem 60mg modified-release tablets (Waymade Healthcare Plc)	Diltiazem hydrochloride	2060200
+52701	Tildiem LA 200 capsules (Mawdsley-Brooks & Company Ltd)	Diltiazem hydrochloride	2060200
+38545	Tildiem LA 200 capsules (Sanofi)	Diltiazem hydrochloride	2060200
+536	Tildiem la 200mg Modified-release capsule (Sanofi)	Diltiazem hydrochloride	2060200
+54799	Tildiem LA 300 capsules (Mawdsley-Brooks & Company Ltd)	Diltiazem hydrochloride	2060200
+38876	Tildiem LA 300 capsules (Sanofi)	Diltiazem hydrochloride	2060200
+5296	Tildiem la 300mg Modified-release capsule (Sanofi)	Diltiazem hydrochloride	2060200
+66048	Tildiem Retard 120mg tablets (DE Pharmaceuticals)	Diltiazem hydrochloride	2060200
+51261	Tildiem Retard 120mg tablets (Mawdsley-Brooks & Company Ltd)	Diltiazem hydrochloride	2060200
+1289	Tildiem Retard 120mg tablets (Sanofi)	Diltiazem hydrochloride	2060200
+939	Tildiem Retard 90mg tablets (Sanofi)	Diltiazem hydrochloride	2060200
+59585	Uard 120XL capsules (Ennogen Healthcare Ltd)	Diltiazem hydrochloride	2060200
+66172	Uard 180XL capsules (Ennogen Healthcare Ltd)	Diltiazem hydrochloride	2060200
+66834	Uard 240XL capsules (Ennogen Healthcare Ltd)	Diltiazem hydrochloride	2060200
+2592	Viazem XL 120mg capsules (Thornton & Ross Ltd)	Diltiazem hydrochloride	2060200
+17666	Viazem XL 180mg capsules (Thornton & Ross Ltd)	Diltiazem hydrochloride	2060200
+13027	Viazem XL 240mg capsules (Thornton & Ross Ltd)	Diltiazem hydrochloride	2060200
+1130	Viazem XL 300mg capsules (Thornton & Ross Ltd)	Diltiazem hydrochloride	2060200
+7398	Viazem XL 360mg capsules (Thornton & Ross Ltd)	Diltiazem hydrochloride	2060200
+47732	Zemret 180 XL capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+44192	Zemret 240 XL capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+47608	Zemret 300 XL capsules (Tillomed Laboratories Ltd)	Diltiazem hydrochloride	2060200
+36583	Zemret xl 180mg Capsule (Neo Laboratories Ltd)	Diltiazem Hydrochloride	2060200
+26463	Zemret xl 240mg Capsule (Neo Laboratories Ltd)	Diltiazem hydrochloride	2060200
+36664	Zemret xl 300mg Capsule (Neo Laboratories Ltd)	Diltiazem hydrochloride	2060200
+17425	Zemtard 120 XL capsules (Galen Ltd)	Diltiazem hydrochloride	2060200
+17406	Zemtard 180 XL capsules (Galen Ltd)	Diltiazem hydrochloride	2060200
+20890	Zemtard 240 XL capsules (Galen Ltd)	Diltiazem hydrochloride	2060200
+17492	Zemtard 300 XL capsules (Galen Ltd)	Diltiazem hydrochloride	2060200
+31737	Zildil SR 120mg capsules (Chanelle Medical UK Ltd)	Diltiazem hydrochloride	2060200
+26759	Zildil SR 60mg capsules (Chanelle Medical UK Ltd)	Diltiazem hydrochloride	2060200
+26337	Cabren 10mg modified-release tablets (Teva UK Ltd)	Felodipine	2060200
+30915	Cabren 2.5mg modified-release tablets (Teva UK Ltd)	Felodipine	2060200
+30991	Cabren 5mg modified-release tablets (Teva UK Ltd)	Felodipine	2060200
+24366	Cardioplen XL 10mg tablets (Chiesi Ltd)	Felodipine	2060200
+35592	Cardioplen XL 2.5mg tablets (Chiesi Ltd)	Felodipine	2060200
+24365	Cardioplen XL 5mg tablets (Chiesi Ltd)	Felodipine	2060200
+20459	Felendil xl 10mg Modified-release tablet (Ratiopharm UK Ltd)	Felodipine	2060200
+29145	Felendil xl 2.5mg Modified-release tablet (Ratiopharm UK Ltd)	Felodipine	2060200
+10153	Felendil xl 5mg Modified-release tablet (Ratiopharm UK Ltd)	Felodipine	2060200
+32922	Felodipine 10mg Modified-release tablet (Sandoz Ltd)	Felodipine	2060200
+568	Felodipine 10mg modified-release tablets	Felodipine	2060200
+33091	Felodipine 10mg modified-release tablets (A A H Pharmaceuticals Ltd)	Felodipine	2060200
+64760	Felodipine 10mg modified-release tablets (Phoenix Healthcare Distribution Ltd)	Felodipine	2060200
+64917	Felodipine 10mg modified-release tablets (Waymade Healthcare Plc)	Felodipine	2060200
+491	Felodipine 2.5mg modified-release tablets	Felodipine	2060200
+64474	Felodipine 2.5mg modified-release tablets (A A H Pharmaceuticals Ltd)	Felodipine	2060200
+66910	Felodipine 2.5mg modified-release tablets (DE Pharmaceuticals)	Felodipine	2060200
+60884	Felodipine 2.5mg modified-release tablets (Phoenix Healthcare Distribution Ltd)	Felodipine	2060200
+64719	Felodipine 2.5mg modified-release tablets (Sigma Pharmaceuticals Plc)	Felodipine	2060200
+60569	Felodipine 2.5mg modified-release tablets (Waymade Healthcare Plc)	Felodipine	2060200
+48009	Felodipine 5mg Modified-release tablet (Sandoz Ltd)	Felodipine	2060200
+501	Felodipine 5mg modified-release tablets	Felodipine	2060200
+43512	Felodipine 5mg modified-release tablets (A A H Pharmaceuticals Ltd)	Felodipine	2060200
+66095	Felodipine 5mg modified-release tablets (Mawdsley-Brooks & Company Ltd)	Felodipine	2060200
+44859	Felodipine sr 5mg Tablet (Approved Prescription Services Ltd)	Felodipine	2060200
+30557	Felogen XL 10mg tablets (Mylan Ltd)	Felodipine	2060200
+25572	Felogen XL 5mg tablets (Mylan Ltd)	Felodipine	2060200
+17566	Felotens XL 10mg tablets (Genus Pharmaceuticals Ltd)	Felodipine	2060200
+37897	Felotens XL 2.5mg tablets (Genus Pharmaceuticals Ltd)	Felodipine	2060200
+17557	Felotens XL 5mg tablets (Genus Pharmaceuticals Ltd)	Felodipine	2060200
+65349	Folpik XL 10mg tablets (Teva UK Ltd)	Felodipine	2060200
+63331	Folpik XL 2.5mg tablets (Teva UK Ltd)	Felodipine	2060200
+55306	Folpik XL 5mg tablets (Teva UK Ltd)	Felodipine	2060200
+38434	Keloc SR 10mg tablets (Teva UK Ltd)	Felodipine	2060200
+29044	Neofel XL 10mg tablets (Kent Pharmaceuticals Ltd)	Felodipine	2060200
+55740	Neofel XL 2.5mg tablets (Actavis UK Ltd)	Felodipine	2060200
+58339	Neofel XL 2.5mg tablets (Almus Pharmaceuticals Ltd)	Felodipine	2060200
+39357	Neofel XL 2.5mg tablets (Kent Pharmaceuticals Ltd)	Felodipine	2060200
+28721	Neofel XL 5mg tablets (Kent Pharmaceuticals Ltd)	Felodipine	2060200
+36620	Parmid XL 10mg tablets (Sandoz Ltd)	Felodipine	2060200
+60652	Parmid XL 2.5mg tablets (Sandoz Ltd)	Felodipine	2060200
+33932	Parmid XL 5mg tablets (Sandoz Ltd)	Felodipine	2060200
+43394	Pinefeld XL 10mg tablets (Tillomed Laboratories Ltd)	Felodipine	2060200
+7280	Plendil 10mg modified-release tablets (AstraZeneca UK Ltd)	Felodipine	2060200
+9334	Plendil 2.5mg modified-release tablets (AstraZeneca UK Ltd)	Felodipine	2060200
+9437	Plendil 5mg modified-release tablets (AstraZeneca UK Ltd)	Felodipine	2060200
+64504	Plendil 5mg modified-release tablets (Necessity Supplies Ltd)	Felodipine	2060200
+14305	Vascalpha 10mg modified-release tablets (Actavis UK Ltd)	Felodipine	2060200
+43790	Vascalpha 10mg modified-release tablets (Almus Pharmaceuticals Ltd)	Felodipine	2060200
+35084	Vascalpha 5mg modified-release tablets (Actavis UK Ltd)	Felodipine	2060200
+40633	Vascalpha 5mg modified-release tablets (Almus Pharmaceuticals Ltd)	Felodipine	2060200
+21162	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine/Ramipril	02050501/02060200
+17474	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine/Ramipril	02050501/02060200
+11965	Ramipril 2.5mg with felodipine 2.5mg modified-release tablet	Felodipine/Ramipril	02050501/02060200
+11567	Ramipril 5mg with felodipine 5mg modified-release tablet	Felodipine/Ramipril	02050501/02060200
+28438	Triapin 2.5mg/2.5mg modified-release tablets (Sanofi)	Felodipine/Ramipril	02050501/02060200
+17006	Triapin 5mg/5mg modified-release tablets (Sanofi)	Felodipine/Ramipril	02050501/02060200
+47573	Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Amlodipine besilate/Hydrochlorothiazide/Olmesartan medoxomil	2050502
+60007	Generic Sevikar HCT 40mg/10mg/12.5mg tablets	0	2050502
+47616	Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/amlodipine/olmesartan Medoxomil	2050502
+47727	Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)	Hydrochlorothiazide/amlodipine/olmesartan Medoxomil	2050502
+35380	Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet	Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+39021	Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet	Hydrochlorothiazide/Olmesartan Medoxomil	02020100/02050502
+18200	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+18903	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/olmesartan Medoxomil	02020100/02050502
+43322	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+29634	Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+43915	Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Hydrochlorothiazide	02020100/02050502
+8310	Isradipine 2.5mg tablets	Isradipine	2060200
+8257	Prescal 2.5mg tablets (Novartis Pharmaceuticals UK Ltd)	Isradipine	2060200
+5158	Lacidipine 2mg tablets	Lacidipine	2060200
+60699	Lacidipine 2mg tablets (Sigma Pharmaceuticals Plc)	Lacidipine	2060200
+3221	Lacidipine 4mg tablets	Lacidipine	2060200
+57680	Lacidipine 4mg tablets (A A H Pharmaceuticals Ltd)	Lacidipine	2060200
+56994	Lacidipine 4mg tablets (Teva UK Ltd)	Lacidipine	2060200
+11966	Motens 2mg tablets (GlaxoSmithKline UK Ltd)	Lacidipine	2060200
+9670	Motens 4mg tablets (GlaxoSmithKline UK Ltd)	Lacidipine	2060200
+5593	Lercanidipine 10mg tablets	Lercanidipine hydrochloride	2060200
+64227	Lercanidipine 10mg tablets (Actavis UK Ltd)	Lercanidipine hydrochloride	2060200
+57444	Lercanidipine 10mg tablets (Aptil Pharma Ltd)	Lercanidipine hydrochloride	2060200
+61611	Lercanidipine 10mg tablets (DE Pharmaceuticals)	Lercanidipine hydrochloride	2060200
+47331	Lercanidipine 10mg tablets (Mylan Ltd)	Lercanidipine hydrochloride	2060200
+13243	Lercanidipine 20mg tablets	Lercanidipine hydrochloride	2060200
+63917	Lercanidipine 20mg tablets (A A H Pharmaceuticals Ltd)	Lercanidipine hydrochloride	2060200
+59233	Lercanidipine 20mg tablets (Actavis UK Ltd)	Lercanidipine hydrochloride	2060200
+56767	Lercanidipine 20mg tablets (Mylan Ltd)	Lercanidipine hydrochloride	2060200
+65659	Lercanidipine 20mg tablets (Teva UK Ltd)	Lercanidipine hydrochloride	2060200
+64424	Lercanidipine 20mg tablets (Zentiva)	Lercanidipine hydrochloride	2060200
+18690	SECURON (CALENDAR PACK) 120 MG TAB	0	0
+5570	Zanidip 10mg tablets (Recordati Pharmaceuticals Ltd)	Lercanidipine hydrochloride	2060200
+14300	Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd)	Lercanidipine hydrochloride	2060200
+19015	ADIZEM CONTINUS 120 MG TAB	0	0
+19013	Clinium 120mg Tablet (LEO Pharma)	Lidoflazine	2060200
+30758	Lidoflazine 120mg Tablet	Lidoflazine	2060200
+22241	Mibefradil 100mg Tablet	Mibefradil	2060200
+15652	Mibefradil 50mg Tablet	Mibefradil	2060200
+3931	Posicor 100mg Tablet (Roche Products Ltd)	Mibefradil	2060200
+1529	Posicor 50mg Tablet (Roche Products Ltd)	Mibefradil	2060200
+11943	Cardene 20mg capsules (Astellas Pharma Ltd)	Nicardipine hydrochloride	2060200
+7562	Cardene 30mg capsules (Astellas Pharma Ltd)	Nicardipine hydrochloride	2060200
+3302	Cardene SR 30mg capsules (Astellas Pharma Ltd)	Nicardipine hydrochloride	2060200
+12875	Cardene SR 45mg capsules (Astellas Pharma Ltd)	Nicardipine hydrochloride	2060200
+2926	Nicardipine 20mg capsules	Nicardipine hydrochloride	2060200
+8201	Nicardipine 30mg capsules	Nicardipine hydrochloride	2060200
+45292	Nicardipine 30mg capsules (A A H Pharmaceuticals Ltd)	Nicardipine hydrochloride	2060200
+5477	Nicardipine 30mg modified-release capsules	Nicardipine hydrochloride	2060200
+9386	Nicardipine 45mg modified-release capsules	Nicardipine hydrochloride	2060200
+25054	ADALAT	0	0
+2521	Adalat 10mg capsules (Bayer Plc)	Nifedipine	2060200
+27910	ADALAT 5	0	0
+662	Adalat 5mg capsules (Bayer Plc)	Nifedipine	2060200
+541	Adalat LA 20 tablets (Bayer Plc)	Nifedipine	2060200
+58557	Adalat LA 20 tablets (Necessity Supplies Ltd)	Nifedipine	2060200
+57653	Adalat LA 20 tablets (Sigma Pharmaceuticals Plc)	Nifedipine	2060200
+43753	Adalat LA 30 tablets (Bayer Plc)	Nifedipine	2060200
+53500	Adalat LA 30 tablets (DE Pharmaceuticals)	Nifedipine	2060200
+52017	Adalat LA 30 tablets (Mawdsley-Brooks & Company Ltd)	Nifedipine	2060200
+53278	Adalat LA 30 tablets (Necessity Supplies Ltd)	Nifedipine	2060200
+1854	Adalat la 30mg Tablet (Bayer Plc)	Nifedipine	2060200
+43818	Adalat LA 60 tablets (Bayer Plc)	Nifedipine	2060200
+56469	Adalat LA 60 tablets (Necessity Supplies Ltd)	Nifedipine	2060200
+51917	Adalat LA 60 tablets (Sigma Pharmaceuticals Plc)	Nifedipine	2060200
+57531	Adalat LA 60 tablets (Waymade Healthcare Plc)	Nifedipine	2060200
+4227	Adalat la 60mg Tablet (Bayer Plc)	Nifedipine	2060200
+25027	ADALAT RETARD 10	0	0
+2280	Adalat retard 10mg tablets (Bayer Plc)	Nifedipine	2060200
+2343	Adalat retard 20mg tablets (Bayer Plc)	Nifedipine	2060200
+66191	Adalat retard 20mg tablets (DE Pharmaceuticals)	Nifedipine	2060200
+53629	Adalat retard 20mg tablets (Lexon (UK) Ltd)	Nifedipine	2060200
+45685	Adanif XL 30mg tablets (Focus Pharmaceuticals Ltd)	Nifedipine	2060200
+46887	Adanif XL 60mg tablets (Focus Pharmaceuticals Ltd)	Nifedipine	2060200
+41979	Adipine la 30mg Modified-release tablet (Chiesi Ltd)	Nifedipine	2060200
+47217	Adipine la 60mg Modified-release tablet (Chiesi Ltd)	Nifedipine	2060200
+4239	Adipine MR 10 tablets (Chiesi Ltd)	Nifedipine	2060200
+3711	Adipine MR 20 tablets (Chiesi Ltd)	Nifedipine	2060200
+13139	Adipine XL 30mg tablets (Chiesi Ltd)	Nifedipine	2060200
+10246	Adipine XL 60mg tablets (Chiesi Ltd)	Nifedipine	2060200
+20878	Angiopine 10 capsules (Ashbourne Pharmaceuticals Ltd)	Nifedipine	2060200
+21872	Angiopine 5mg Capsule (Ashbourne Pharmaceuticals Ltd)	Nifedipine	2060200
+13699	Angiopine la 40mg Tablet (Ashbourne Pharmaceuticals Ltd)	Nifedipine	2060200
+13672	Angiopine MR 10mg tablets (Ashbourne Pharmaceuticals Ltd)	Nifedipine	2060200
+5181	Angiopine MR 20mg tablets (Ashbourne Pharmaceuticals Ltd)	Nifedipine	2060200
+22019	Calanif 10mg Capsule (Berk Pharmaceuticals Ltd)	Nifedipine	2060200
+26265	Calanif 5mg Capsule (Berk Pharmaceuticals Ltd)	Nifedipine	2060200
+14861	Calchan MR 10 tablets (Ranbaxy (UK) Ltd)	Nifedipine	2060200
+11769	Calchan MR 20 tablets (Ranbaxy (UK) Ltd)	Nifedipine	2060200
+22142	Calcilat 10mg Capsule (Eastern Pharmaceuticals Ltd)	Nifedipine	2060200
+17325	Cardilate MR 10mg tablets (Teva UK Ltd)	Nifedipine	2060200
+20257	Cardilate MR 20mg tablets (IVAX Pharmaceuticals UK Ltd)	Nifedipine	2060200
+2746	Coracten SR 10mg capsules (UCB Pharma Ltd)	Nifedipine	2060200
+4856	Coracten SR 20mg capsules (UCB Pharma Ltd)	Nifedipine	2060200
+3712	Coracten XL 30mg capsules (UCB Pharma Ltd)	Nifedipine	2060200
+4939	Coracten XL 60mg capsules (UCB Pharma Ltd)	Nifedipine	2060200
+30473	Coroday MR 20mg tablets (Mylan Ltd)	Nifedipine	2060200
+5277	Fortipine LA 40 tablets (AMCo)	Nifedipine	2060200
+15715	Genalat retard 20mg Modified-release tablet (Wyeth Pharmaceuticals)	Nifedipine	2060200
+21216	Hypolar Retard 10mg tablets (Sandoz Ltd)	Nifedipine	2060200
+9485	Hypolar Retard 20 tablets (Sandoz Ltd)	Nifedipine	2060200
+23736	Hypolar XL 30 tablets (Sandoz Ltd)	Nifedipine	2060200
+37530	Neozipine XL 30mg tablets (Kent Pharmaceuticals Ltd)	Nifedipine	2060200
+35646	Neozipine XL 60mg tablets (Kent Pharmaceuticals Ltd)	Nifedipine	2060200
+25055	NIFEDIPINE	0	0
+37726	Nifedipine 100mg/5ml oral suspension	Nifedipine	2060200
+34247	Nifedipine 10mg Capsule (Berk Pharmaceuticals Ltd)	Nifedipine	2060200
+452	Nifedipine 10mg capsules	Nifedipine	2060200
+43511	Nifedipine 10mg capsules (A A H Pharmaceuticals Ltd)	Nifedipine	2060200
+43515	Nifedipine 10mg capsules (Actavis UK Ltd)	Nifedipine	2060200
+55455	Nifedipine 10mg capsules (Strides Shasun (UK) Ltd)	Nifedipine	2060200
+46445	Nifedipine 10mg capsules (IVAX Pharmaceuticals UK Ltd)	Nifedipine	2060200
+63041	Nifedipine 10mg capsules (Mylan Ltd)	Nifedipine	2060200
+42912	Nifedipine 10mg capsules (Teva UK Ltd)	Nifedipine	2060200
+2605	Nifedipine 10mg modified-release capsules	Nifedipine	2060200
+34187	Nifedipine 10mg Modified-release tablet (Generics (UK) Ltd)	Nifedipine	2060200
+47027	Nifedipine 10mg Modified-release tablet (Kent Pharmaceuticals Ltd)	Nifedipine	2060200
+410	Nifedipine 10mg modified-release tablets	Nifedipine	2060200
+28688	Nifedipine 10mg modified-release tablets (A A H Pharmaceuticals Ltd)	Nifedipine	2060200
+49762	Nifedipine 10mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)	Nifedipine	2060200
+63246	Nifedipine 10mg modified-release tablets (AM Distributions (Yorkshire) Ltd)	Nifedipine	2060200
+58990	Nifedipine 10mg modified-release tablets (Cubic Pharmaceuticals Ltd)	Nifedipine	2060200
+60856	Nifedipine 10mg modified-release tablets (Sigma Pharmaceuticals Plc)	Nifedipine	2060200
+26774	Nifedipine 10mg/5ml Oral suspension	Nifedipine	2060200
+53357	Nifedipine 10mg/5ml oral suspension	Nifedipine	2060200
+1262	Nifedipine 12 20mg Modified-release tablet	Nifedipine	2060200
+40074	Nifedipine 20mg Capsule	Nifedipine	2060200
+737	Nifedipine 20mg modified-release capsules	Nifedipine	2060200
+55824	Nifedipine 20mg Modified-release tablet (Berk Pharmaceuticals Ltd)	Nifedipine	2060200
+66236	Nifedipine 20mg Modified-release tablet (Kent Pharmaceuticals Ltd)	Nifedipine	2060200
+37025	Nifedipine 20mg modified-release tablets	Nifedipine	2060200
+25919	Nifedipine 20mg modified-release tablets (A A H Pharmaceuticals Ltd)	Nifedipine	2060200
+49338	Nifedipine 20mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)	Nifedipine	2060200
+59163	Nifedipine 20mg modified-release tablets (Cubic Pharmaceuticals Ltd)	Nifedipine	2060200
+47529	Nifedipine 20mg/ml oral drops	Nifedipine	2060200
+8213	Nifedipine 24 20mg Modified-release tablet	Nifedipine	2060200
+1449	Nifedipine 24 30mg Modified-release tablet	Nifedipine	2060200
+5162	Nifedipine 30mg modified-release capsules	Nifedipine	2060200
+30199	Nifedipine 30mg modified-release tablets	Nifedipine	2060200
+47614	Nifedipine 30mg modified-release tablets (A A H Pharmaceuticals Ltd)	Nifedipine	2060200
+9269	Nifedipine 40mg modified-release tablets	Nifedipine	2060200
+269	Nifedipine 5mg capsules	Nifedipine	2060200
+34522	Nifedipine 5mg capsules (A A H Pharmaceuticals Ltd)	Nifedipine	2060200
+34607	Nifedipine 5mg capsules (IVAX Pharmaceuticals UK Ltd)	Nifedipine	2060200
+34975	Nifedipine 5mg capsules (Teva UK Ltd)	Nifedipine	2060200
+53990	Nifedipine 5mg/5ml oral suspension	Nifedipine	2060200
+9750	Nifedipine 60mg modified-release capsules	Nifedipine	2060200
+34115	Nifedipine 60mg Modified-release tablet	Nifedipine	2060200
+3930	Nifedipine 60mg modified-release tablets	Nifedipine	2060200
+43410	Nifedipine extra 60mg Modified-release tablet	Nifedipine	2060200
+34146	Nifedipine mr 10mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd)	Nifedipine	2060200
+34101	Nifedipine mr 20mg Modified-release tablet (IVAX Pharmaceuticals UK Ltd)	Nifedipine	2060200
+47707	Nifedipine Oral solution	Nifedipine	2060200
+25026	NIFEDIPINE RETARD	0	0
+25044	NIFEDIPINE RETARD	0	0
+38107	Nifedipine sr 30mg Tablet (Hillcross Pharmaceuticals Ltd)	Nifedipine	2060200
+7823	NIFEDIPINE TAB 5 mg	0	0
+47285	Nifedipine xl 60mg Tablet (Hillcross Pharmaceuticals Ltd)	Nifedipine	2060200
+11512	Nifedipress MR 10 tablets (Dexcel-Pharma Ltd)	Nifedipine	2060200
+16073	Nifedipress MR 10 tablets (Teva UK Ltd)	Nifedipine	2060200
+21245	Nifedipress mr 10mg Modified-release tablet (Actavis UK Ltd)	Nifedipine	2060200
+10135	Nifedipress mr 10mg Modified-release tablet (Sandoz Ltd)	Nifedipine	2060200
+17448	Nifedipress mr 10mg Modified-release tablet (Sterwin Medicines)	Nifedipine	2060200
+21886	Nifedipress MR 20 tablets (Actavis UK Ltd)	Nifedipine	2060200
+10136	Nifedipress MR 20 tablets (Dexcel-Pharma Ltd)	Nifedipine	2060200
+20591	Nifedipress MR 20 tablets (Teva UK Ltd)	Nifedipine	2060200
+20311	Nifedipress mr 20mg Modified-release tablet (Generics (UK) Ltd)	Nifedipine	2060200
+17338	Nifedotard 20 mr 20mg Modified-release tablet (Galen Ltd)	Nifedipine	2060200
+12606	Nifelease 20mg Modified-release tablet (Eastern Pharmaceuticals Ltd)	Nifedipine	2060200
+1300	Nifensar xl 20mg Modified-release tablet (Rhone-Poulenc Rorer Ltd)	Nifedipine	2060200
+25132	Nifopress MR 20mg tablets (Teva UK Ltd)	Nifedipine	2060200
+7541	Nifopress Retard 20mg tablets (AMCo)	Nifedipine	2060200
+22217	Nimodrel 10mg modified-release tablet (Opus Pharmaceuticals Ltd)	Nifedipine	2060200
+24228	Nimodrel 20mg modified-release tablet (Opus Pharmaceuticals Ltd)	Nifedipine	2060200
+33025	Nimodrel XL 30mg tablets (Zurich Pharmaceuticals)	Nifedipine	2060200
+47887	Nimodrel XL 60mg tablets (Zurich Pharmaceuticals)	Nifedipine	2060200
+17342	Nivaten retard 10mg Modified-release tablet (Actavis UK Ltd)	Nifedipine	2060200
+25646	Nivaten retard 20mg Modified-release tablet (Actavis UK Ltd)	Nifedipine	2060200
+36684	SLOFEDIPINE 20 MG TAB	0	0
+22696	Slofedipine 20mg tablets (Sterwin Medicines)	Nifedipine	2060200
+9573	Slofedipine XL 30mg tablets (Zentiva)	Nifedipine	2060200
+9553	Slofedipine XL 60 tablets (Zentiva)	Nifedipine	2060200
+19170	Tensipine MR 10 tablets (Genus Pharmaceuticals Ltd)	Nifedipine	2060200
+5806	Tensipine MR 20 tablets (Genus Pharmaceuticals Ltd)	Nifedipine	2060200
+12613	Unipine xl 30mg Modified-release tablet (Genus Pharmaceuticals Ltd)	Nifedipine	2060200
+43222	Valni 20 Retard tablets (Tillomed Laboratories Ltd)	Nifedipine	2060200
+37184	Valni XL 30mg tablets (Zentiva)	Nifedipine	2060200
+39800	Valni XL 60mg tablets (Zentiva)	Nifedipine	2060200
+11547	Nimodipine 30mg tablets	Nimodipine	2060200
+10595	Nimotop 30mg tablets (Bayer Plc)	Nimodipine	2060200
+23805	Nisoldipine 10mg modified-release tablets	Nisoldipine	2060200
+18038	Nisoldipine 20mg modified-release tablets	Nisoldipine	2060200
+23823	Nisoldipine 30mg modified-release tablets	Nisoldipine	2060200
+19129	Syscor MR 10 tablets (Forest Laboratories UK Ltd)	Nisoldipine	2060200
+31337	Syscor MR 20 tablets (Forest Laboratories UK Ltd)	Nisoldipine	2060200
+31336	Syscor MR 30 tablets (Forest Laboratories UK Ltd)	Nisoldipine	2060200
+40316	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Olmesartan medoxomil/Amlodipine besilate	02050502/02060200
+39984	Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd)	Olmesartan medoxomil/Amlodipine besilate	02050502/02060200
+7681	Synadrin 60mg Tablet (Hoechst UK Ltd)	Prenylamine Lactate	2060200
+35189	Amlodipine 10mg / Valsartan 160mg tablets	Valsartan/amlodipine Besilate	2060200
+35343	Amlodipine 5mg / Valsartan 160mg tablets	Valsartan/amlodipine Besilate	2060200
+35329	Amlodipine 5mg / Valsartan 80mg tablets	Valsartan/amlodipine Besilate	2060200
+35096	Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Amlodipine besilate/Valsartan	2060200
+35697	Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)	Valsartan/amlodipine Besilate	2060200
+8172	Acebutolol 100mg capsules	Acebutolol hydrochloride	2040000
+65438	Acebutolol 100mg capsules (A A H Pharmaceuticals Ltd)	Acebutolol hydrochloride	2040000
+8113	Acebutolol 200mg capsules	Acebutolol hydrochloride	2040000
+7620	Acebutolol 400mg tablets	Acebutolol hydrochloride	2040000
+45309	Acebutolol 400mg tablets (A A H Pharmaceuticals Ltd)	Acebutolol hydrochloride	2040000
+12296	Sectral 100mg capsules (Sanofi)	Acebutolol hydrochloride	2040000
+8555	Sectral 200mg capsules (Sanofi)	Acebutolol hydrochloride	2040000
+8023	Sectral 400mg tablets (Sanofi)	Acebutolol hydrochloride	2040000
+24195	Antipressan 100mg tablets (Teva UK Ltd)	Atenolol	2040000
+26211	Antipressan 25mg tablets (Teva UK Ltd)	Atenolol	2040000
+24191	Antipressan 50mg tablets (Teva UK Ltd)	Atenolol	2040000
+29398	Atenamin 100mg Tablet (OPD Pharm)	Atenolol	2040000
+20728	Atenamin 25mg Tablet (OPD Pharm)	Atenolol	2040000
+21133	Atenamin 50mg Tablet (OPD Pharm)	Atenolol	2040000
+20502	Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol	2040000
+17322	Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol	2040000
+10191	Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol	2040000
+24677	ATENOLOL	0	0
+25037	ATENOLOL	0	0
+24	Atenolol 100mg tablets	Atenolol	2040000
+33085	Atenolol 100mg tablets (A A H Pharmaceuticals Ltd)	Atenolol	2040000
+46931	Atenolol 100mg tablets (Actavis UK Ltd)	Atenolol	2040000
+31934	Atenolol 100mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol	2040000
+46908	Atenolol 100mg tablets (Kent Pharmaceuticals Ltd)	Atenolol	2040000
+33079	Atenolol 100mg tablets (Mylan Ltd)	Atenolol	2040000
+34754	Atenolol 100mg tablets (Sandoz Ltd)	Atenolol	2040000
+19191	Atenolol 100mg tablets (Teva UK Ltd)	Atenolol	2040000
+33184	Atenolol 100mg tablets (Wockhardt UK Ltd)	Atenolol	2040000
+26	Atenolol 25mg tablets	Atenolol	2040000
+33657	Atenolol 25mg tablets (A A H Pharmaceuticals Ltd)	Atenolol	2040000
+59982	Atenolol 25mg tablets (Accord Healthcare Ltd)	Atenolol	2040000
+44858	Atenolol 25mg tablets (Actavis UK Ltd)	Atenolol	2040000
+50702	Atenolol 25mg tablets (Alliance Healthcare (Distribution) Ltd)	Atenolol	2040000
+47870	Atenolol 25mg tablets (Almus Pharmaceuticals Ltd)	Atenolol	2040000
+53826	Atenolol 25mg tablets (Boston Healthcare Ltd)	Atenolol	2040000
+49953	Atenolol 25mg tablets (Bristol Laboratories Ltd)	Atenolol	2040000
+51998	Atenolol 25mg tablets (Strides Shasun (UK) Ltd)	Atenolol	2040000
+52310	Atenolol 25mg tablets (Crescent Pharma Ltd)	Atenolol	2040000
+19172	Atenolol 25mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol	2040000
+31536	Atenolol 25mg tablets (Kent Pharmaceuticals Ltd)	Atenolol	2040000
+34492	Atenolol 25mg tablets (Mylan Ltd)	Atenolol	2040000
+34585	Atenolol 25mg tablets (Sandoz Ltd)	Atenolol	2040000
+53802	Atenolol 25mg tablets (Sigma Pharmaceuticals Plc)	Atenolol	2040000
+29368	Atenolol 25mg tablets (Teva UK Ltd)	Atenolol	2040000
+34976	Atenolol 25mg tablets (Tillomed Laboratories Ltd)	Atenolol	2040000
+62325	Atenolol 25mg tablets (Waymade Healthcare Plc)	Atenolol	2040000
+34575	Atenolol 25mg tablets (Wockhardt UK Ltd)	Atenolol	2040000
+54542	Atenolol 25mg tablets (Zanza Laboratories Ltd)	Atenolol	2040000
+6066	Atenolol 25mg/5ml oral solution sugar free	Atenolol	2040000
+56445	Atenolol 25mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)	Atenolol	2040000
+51643	Atenolol 25mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)	Atenolol	2040000
+34882	Atenolol 50mg Tablet (Berk Pharmaceuticals Ltd)	Atenolol	2040000
+5	Atenolol 50mg tablets	Atenolol	2040000
+33092	Atenolol 50mg tablets (A A H Pharmaceuticals Ltd)	Atenolol	2040000
+53414	Atenolol 50mg tablets (Accord Healthcare Ltd)	Atenolol	2040000
+33850	Atenolol 50mg tablets (Actavis UK Ltd)	Atenolol	2040000
+53204	Atenolol 50mg tablets (Alliance Healthcare (Distribution) Ltd)	Atenolol	2040000
+52500	Atenolol 50mg tablets (Almus Pharmaceuticals Ltd)	Atenolol	2040000
+59695	Atenolol 50mg tablets (Boston Healthcare Ltd)	Atenolol	2040000
+53215	Atenolol 50mg tablets (Bristol Laboratories Ltd)	Atenolol	2040000
+54752	Atenolol 50mg tablets (Strides Shasun (UK) Ltd)	Atenolol	2040000
+66548	Atenolol 50mg tablets (DE Pharmaceuticals)	Atenolol	2040000
+19182	Atenolol 50mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol	2040000
+34695	Atenolol 50mg tablets (Kent Pharmaceuticals Ltd)	Atenolol	2040000
+33650	Atenolol 50mg tablets (Mylan Ltd)	Atenolol	2040000
+55778	Atenolol 50mg tablets (Phoenix Healthcare Distribution Ltd)	Atenolol	2040000
+34265	Atenolol 50mg tablets (Sandoz Ltd)	Atenolol	2040000
+64973	Atenolol 50mg tablets (Sigma Pharmaceuticals Plc)	Atenolol	2040000
+34365	Atenolol 50mg tablets (Teva UK Ltd)	Atenolol	2040000
+36261	Atenolol 50mg tablets (Tillomed Laboratories Ltd)	Atenolol	2040000
+34443	Atenolol 50mg tablets (Wockhardt UK Ltd)	Atenolol	2040000
+57817	Atenolol 50mg tablets (Zentiva)	Atenolol	2040000
+197	Atenolol 5mg/10ml solution for injection ampoules	Atenolol	2040000
+8765	ATENOLOL/CHLORTHALIDONE 50 MG TAB	0	0
+2587	Tenormin 100mg tablets (AstraZeneca UK Ltd)	Atenolol	2040000
+2590	Tenormin 25mg tablets (AstraZeneca UK Ltd)	Atenolol	2040000
+13394	Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd)	Atenolol	2040000
+7429	Tenormin 5mg/10ml solution for injection ampoules (AstraZeneca UK Ltd)	Atenolol	2040000
+2432	Tenormin LS 50mg tablets (AstraZeneca UK Ltd)	Atenolol	2040000
+15730	Totamol 100mg Tablet (C P Pharmaceuticals Ltd)	Atenolol	2040000
+18950	Totamol 25mg Tablet (C P Pharmaceuticals Ltd)	Atenolol	2040000
+15176	Totamol 50mg Tablet (C P Pharmaceuticals Ltd)	Atenolol	2040000
+30636	Vasaten 50mg Tablet (Shire Pharmaceuticals Ltd)	Atenolol	2040000
+3526	Amiloride with atenolol with hydrochlorothiazide capsules	Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+4983	Atenolol with amiloride and hydrochlorothiazide capsules	Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+28177	Hydrochlorothiazide with atenolol and amiloride Capsule	Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+7543	Kalten capsules (M & A Pharmachem Ltd)	Atenolol/Amiloride hydrochloride/Hydrochlorothiazide	2040100
+48745	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets	0	2040100
+13526	Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+21873	Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+5721	Co-tenidone 100mg/25mg tablets	Atenolol/Chlortalidone	02020100/02040000
+34899	Co-tenidone 100mg/25mg tablets (A A H Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+46952	Co-tenidone 100mg/25mg tablets (Actavis UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+62537	Co-tenidone 100mg/25mg tablets (DE Pharmaceuticals)	Atenolol/Chlortalidone	02020100/02040000
+34012	Co-tenidone 100mg/25mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+37725	Co-tenidone 100mg/25mg tablets (Mylan Ltd)	Atenolol/Chlortalidone	02020100/02040000
+41572	Co-tenidone 100mg/25mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+9783	Co-tenidone 50mg/12.5mg tablets	Atenolol/Chlortalidone	02020100/02040000
+32094	Co-tenidone 50mg/12.5mg tablets (A A H Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+31708	Co-tenidone 50mg/12.5mg tablets (Actavis UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+34034	Co-tenidone 50mg/12.5mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+34449	Co-tenidone 50mg/12.5mg tablets (Mylan Ltd)	Atenolol/Chlortalidone	02020100/02040000
+34825	Co-tenidone 50mg/12.5mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+26248	Tenchlor 100mg/25mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+31470	Tenchlor 50mg/12.5mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+1288	Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+1124	Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+24280	Totaretic 100mg+25mg Tablet (C P Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+26741	Totaretic 50mg+12.5mg Tablet (C P Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+4542	Atenolol 50mg / Nifedipine 20mg modified-release capsules	Atenolol/Nifedipine	02040000/02060200
+1684	Beta-Adalat modified-release capsules (Bayer Plc)	Atenolol/Nifedipine	02040000/02060200
+52728	Beta-Adalat modified-release capsules (Lexon (UK) Ltd)	Atenolol/Nifedipine	02040000/02060200
+61719	Beta-Adalat modified-release capsules (Waymade Healthcare Plc)	Atenolol/Nifedipine	02040000/02060200
+8642	Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd)	Atenolol/Nifedipine	02040000/02060200
+21905	Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+21966	Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+39646	Bisoprolol 0.625mg/5ml oral solution	Bisoprolol Fumarate	2040000
+50403	Bisoprolol 1.25mg Tablet (Teva UK Ltd)	Bisoprolol fumarate	2040000
+599	Bisoprolol 1.25mg tablets	Bisoprolol fumarate	02040000/02050500/02100100
+53885	Bisoprolol 1.25mg tablets (A A H Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+51528	Bisoprolol 1.25mg tablets (Actavis UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+54479	Bisoprolol 1.25mg tablets (Alliance Healthcare (Distribution) Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+52548	Bisoprolol 1.25mg tablets (Almus Pharmaceuticals Ltd)	Bisoprolol fumarate	0
+62361	Bisoprolol 1.25mg tablets (Chanelle Medical UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+60761	Bisoprolol 1.25mg tablets (Medreich Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+43251	Bisoprolol 1.25mg tablets (Mylan Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+58511	Bisoprolol 1.25mg tablets (Sandoz Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+59495	Bisoprolol 1.25mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+65805	Bisoprolol 1.25mg tablets (Waymade Healthcare Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+57626	Bisoprolol 1.25mg/5ml oral solution	Bisoprolol fumarate	02040000/02050500/02100100
+58109	Bisoprolol 1.25mg/5ml oral suspension	Bisoprolol fumarate	02040000/02050500/02100100
+822	Bisoprolol 1.5mg/5ml oral suspension	Bisoprolol Fumarate	2040000
+1290	Bisoprolol 10mg tablets	Bisoprolol fumarate	02040000/02050500/02100100
+53334	Bisoprolol 10mg tablets (A A H Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+57176	Bisoprolol 10mg tablets (Accord Healthcare Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+33839	Bisoprolol 10mg tablets (Actavis UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+58982	Bisoprolol 10mg tablets (Medreich Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+34821	Bisoprolol 10mg tablets (Mylan Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+58973	Bisoprolol 10mg tablets (Niche Generics Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+19178	Bisoprolol 10mg tablets (Ranbaxy (UK) Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+55298	Bisoprolol 10mg tablets (Sigma Pharmaceuticals Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+41591	Bisoprolol 10mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+52611	Bisoprolol 10mg/5ml oral solution	0	02040000/02050500/02100100
+37837	Bisoprolol 2.5mg Tablet (Teva UK Ltd)	Bisoprolol fumarate	2040000
+594	Bisoprolol 2.5mg tablets	Bisoprolol fumarate	02040000/02050500/02100100
+37118	Bisoprolol 2.5mg tablets (A A H Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+56459	Bisoprolol 2.5mg tablets (Accord Healthcare Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+63493	Bisoprolol 2.5mg tablets (Actavis UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+58974	Bisoprolol 2.5mg tablets (Alliance Healthcare (Distribution) Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+53916	Bisoprolol 2.5mg tablets (Almus Pharmaceuticals Ltd)	Bisoprolol fumarate	0
+57023	Bisoprolol 2.5mg tablets (Almus Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+50514	Bisoprolol 2.5mg tablets (Chanelle Medical UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+64850	Bisoprolol 2.5mg tablets (DE Pharmaceuticals)	Bisoprolol fumarate	02040000/02050500/02100100
+58498	Bisoprolol 2.5mg tablets (Medreich Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+47041	Bisoprolol 2.5mg tablets (Mylan Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+56768	Bisoprolol 2.5mg tablets (Niche Generics Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+53664	Bisoprolol 2.5mg tablets (Sandoz Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+63850	Bisoprolol 2.5mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+58763	Bisoprolol 2.5mg tablets (Waymade Healthcare Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+59148	Bisoprolol 2.5mg tablets (Zentiva)	Bisoprolol fumarate	02040000/02050500/02100100
+52686	Bisoprolol 2.5mg/5ml oral solution	Bisoprolol fumarate	02040000/02050500/02100100
+44000	Bisoprolol 2.5mg/5ml oral suspension	Bisoprolol fumarate	02040000/02050500/02100100
+7091	Bisoprolol 3.75mg tablets	Bisoprolol fumarate	02040000/02050500/02100100
+55791	Bisoprolol 3.75mg tablets (Actavis UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+60502	Bisoprolol 3.75mg tablets (DE Pharmaceuticals)	Bisoprolol fumarate	02040000/02050500/02100100
+56240	Bisoprolol 3.75mg tablets (Sandoz Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+64538	Bisoprolol 3.75mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+61564	Bisoprolol 3.75mg tablets (Waymade Healthcare Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+43564	Bisoprolol 5mg Tablet (PLIVA Pharma Ltd)	Bisoprolol fumarate	2040000
+472	Bisoprolol 5mg tablets	Bisoprolol fumarate	02040000/02050500/02100100
+59037	Bisoprolol 5mg tablets (A A H Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+55929	Bisoprolol 5mg tablets (Accord Healthcare Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+34963	Bisoprolol 5mg tablets (Actavis UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+52635	Bisoprolol 5mg tablets (Alliance Healthcare (Distribution) Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+59969	Bisoprolol 5mg tablets (Almus Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+61340	Bisoprolol 5mg tablets (DE Pharmaceuticals)	Bisoprolol fumarate	02040000/02050500/02100100
+19200	Bisoprolol 5mg tablets (IVAX Pharmaceuticals UK Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+60896	Bisoprolol 5mg tablets (Medreich Plc)	Bisoprolol fumarate	02040000/02050500/02100100
+32114	Bisoprolol 5mg tablets (Mylan Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+64784	Bisoprolol 5mg tablets (Niche Generics Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+63535	Bisoprolol 5mg tablets (Relonchem Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+57934	Bisoprolol 5mg tablets (Sandoz Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+24083	Bisoprolol 5mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+61115	Bisoprolol 5mg/5ml oral solution	Bisoprolol fumarate	02040000/02050500/02100100
+7553	Bisoprolol 5mg/5ml oral suspension	Bisoprolol fumarate	02040000/02050500/02100100
+5713	Bisoprolol 7.5mg tablets	Bisoprolol fumarate	02040000/02050500/02100100
+38991	Bisoprolol 7.5mg tablets (A A H Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+61651	Bisoprolol 7.5mg tablets (Almus Pharmaceuticals Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+58455	Bisoprolol 7.5mg tablets (Sandoz Ltd)	Bisoprolol fumarate	02040000/02050500/02100100
+65821	Bisoprolol 7.5mg/5ml oral suspension	0	02040000/02050500/02100100
+62407	Bisoprolol oral solution	Bisoprolol Fumarate	2040000
+14058	Cardicor 1.25mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+19858	Cardicor 10mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+14030	Cardicor 2.5mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+57578	Cardicor 2.5mg tablets (Necessity Supplies Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+19853	Cardicor 3.75mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+17615	Cardicor 5mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+18185	Cardicor 7.5mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+50300	Congescor 1.25mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050000
+33909	Congescor 1.25mg tablets (Tillomed Laboratories Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+50224	Congescor 2.5mg tablets (Teva UK Ltd)	Bisoprolol fumarate	02040000/02050000
+32552	Congescor 2.5mg tablets (Tillomed Laboratories Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+10892	Emcor 10mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+4771	Emcor LS 5mg tablets (Merck Serono Ltd)	Bisoprolol fumarate	02040000/02050000/02050500/02100100
+17876	METOPROLOL FUMARATE 190 MG TAB	0	0
+28493	METOPROLOL FUMARATE 95 MG TAB	0	0
+56486	Monocor 10mg tablets (Dowelhurst Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+5968	Monocor 10mg tablets (Wyeth Pharmaceuticals)	Bisoprolol fumarate	02040000/02050000/02100100
+3588	Monocor 5mg tablets (Wyeth Pharmaceuticals)	Bisoprolol fumarate	02040000/02050000/02100100
+32630	Vivacor 10mg tablets (Lexon (UK) Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+39846	Vivacor 5mg tablets (Lexon (UK) Ltd)	Bisoprolol fumarate	02040000/02050000/02100100
+29827	Carteolol HCl 10mg tablets	Carteolol Hydrochloride	2040000
+28700	Cartrol 10mg Tablet (Novartis Consumer Health UK Ltd)	Carteolol Hydrochloride	2040000
+18722	CARVEDILOL	0	0
+54106	Carvedilol 1.5mg/5ml oral suspension	Carvedilol	2040000
+2629	Carvedilol 12.5mg tablets	Carvedilol	2040000
+34501	Carvedilol 12.5mg tablets (Actavis UK Ltd)	Carvedilol	2040000
+33374	Carvedilol 12.5mg tablets (Genus Pharmaceuticals Ltd)	Carvedilol	2040000
+63422	Carvedilol 12.5mg tablets (Waymade Healthcare Plc)	Carvedilol	2040000
+7049	Carvedilol 25mg tablets	Carvedilol	2040000
+22796	CARVEDILOL 3.125 MG	0	0
+817	Carvedilol 3.125mg tablets	Carvedilol	2040000
+46936	Carvedilol 3.125mg tablets (A A H Pharmaceuticals Ltd)	Carvedilol	2040000
+46935	Carvedilol 3.125mg tablets (Actavis UK Ltd)	Carvedilol	2040000
+34741	Carvedilol 3.125mg tablets (IVAX Pharmaceuticals UK Ltd)	Carvedilol	2040000
+61663	Carvedilol 3.125mg tablets (Teva UK Ltd)	Carvedilol	2040000
+49142	Carvedilol 3.125mg/5ml oral suspension	Carvedilol	2040000
+47107	Carvedilol 5mg/5ml oral suspension	Carvedilol	2040000
+59549	Carvedilol 5mg/5ml oral suspension	Carvedilol	0
+4410	Carvedilol 6.25mg tablets	Carvedilol	2040000
+34740	Carvedilol 6.25mg tablets (Actavis UK Ltd)	Carvedilol	2040000
+19202	Carvedilol 6.25mg tablets (Teva UK Ltd)	Carvedilol	2040000
+18414	Eucardic 12.5mg tablets (Roche Products Ltd)	Carvedilol	2040000
+19437	Eucardic 25mg tablets (Roche Products Ltd)	Carvedilol	2040000
+14117	Eucardic 3.125mg tablets (Roche Products Ltd)	Carvedilol	2040000
+14146	Eucardic 6.25mg tablets (Roche Products Ltd)	Carvedilol	2040000
+4265	Celectol 200mg Tablet (Pantheon Healthcare Ltd)	Celiprolol hydrochloride	2040000
+57573	Celectol 200mg tablets (Dowelhurst Ltd)	Celiprolol hydrochloride	2040000
+56485	Celectol 200mg tablets (Waymade Healthcare Plc)	Celiprolol hydrochloride	2040000
+35054	Celectol 200mg tablets (Zentiva)	Celiprolol hydrochloride	2040000
+16776	Celectol 400mg Tablet (Pantheon Healthcare Ltd)	Celiprolol hydrochloride	2040000
+35940	Celectol 400mg tablets (Zentiva)	Celiprolol hydrochloride	2040000
+8262	Celiprolol 200mg tablets	Celiprolol hydrochloride	2040000
+42795	Celiprolol 200mg tablets (Mylan Ltd)	Celiprolol hydrochloride	2040000
+41740	Celiprolol 200mg tablets (Teva UK Ltd)	Celiprolol hydrochloride	2040000
+7974	Celiprolol 400mg tablets	Celiprolol hydrochloride	2040000
+41892	METOPROLOL 100MG/HYDROCHLOROTHIAZ.12.5MG	0	0
+1788	Atenolol 100mg with Chlortalidone 25mg tablets	Chlortalidone/Atenolol	02020100/02040000
+581	Atenolol 50mg with Chlortalidone 12.5mg tablets	Chlortalidone/Atenolol	02020100/02040000
+19055	Chlortalidone 12.5mg with Atenolol 50mg tablets	Chlortalidone/Atenolol	02020100/02040000
+16786	Chlortalidone 25mg with Atenolol 100mg tablets	Chlortalidone/Atenolol	02020100/02040000
+14057	Pindolol 10mg / Clopamide 5mg tablets	Clopamide/Pindolol	2040100
+9143	Viskaldix tablets (AMCo)	Clopamide/Pindolol	2040100
+32135	Brevibloc Concentrate 2.5g/10ml solution for infusion ampoules (Baxter Healthcare Ltd)	Esmolol hydrochloride	0
+26922	Brevibloc Premixed 100mg/10ml solution for injection vials (Baxter Healthcare Ltd)	Esmolol hydrochloride	2040000
+39819	Esmolol 2.5g/250ml infusion bags	Esmolol Hydrochloride	2040000
+30541	Esmolol HCl 250mg/ml concentrate solution for infusion	Esmolol Hydrochloride	2040000
+34171	Labetalol 100mg Tablet (C P Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+1597	Labetalol 100mg tablets	Labetalol hydrochloride	2040000
+34177	Labetalol 100mg tablets (A A H Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+62638	Labetalol 100mg tablets (Actavis UK Ltd)	Labetalol hydrochloride	2040000
+41827	Labetalol 100mg tablets (Mylan Ltd)	Labetalol hydrochloride	2040000
+63736	Labetalol 100mg tablets (Waymade Healthcare Plc)	Labetalol hydrochloride	2040000
+38370	Labetalol 100mg/20ml solution for injection ampoules	Labetalol hydrochloride	2040000
+59222	Labetalol 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+47674	Labetalol 200mg Tablet (C P Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+34188	Labetalol 200mg Tablet (Celltech Pharma Europe Ltd)	Labetalol hydrochloride	2040000
+2775	Labetalol 200mg tablets	Labetalol hydrochloride	2040000
+30770	Labetalol 200mg tablets (A A H Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+44083	Labetalol 200mg tablets (Actavis UK Ltd)	Labetalol hydrochloride	2040000
+47673	Labetalol 400mg Tablet (Approved Prescription Services Ltd)	Labetalol hydrochloride	2040000
+1295	Labetalol 400mg tablets	Labetalol hydrochloride	2040000
+40240	Labetalol 400mg tablets (A A H Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+45250	Labetalol 400mg tablets (Sandoz Ltd)	Labetalol hydrochloride	2040000
+4725	Labetalol 50mg tablets	Labetalol hydrochloride	2040000
+19068	Labetalol 50mg/10ml solution for injection pre-filled syringes	Labetalol hydrochloride	0
+7491	LABETALOL TAB	0	0
+35778	Labrocol 100mg Tablet (Lagap)	Labetalol hydrochloride	2040000
+22793	Labrocol 200mg Tablet (Lagap)	Labetalol hydrochloride	2040000
+16645	Labrocol 400mg Tablet (Lagap)	Labetalol hydrochloride	2040000
+23598	SOTALOL HYDROCHLORIDE S/R	0	0
+9016	Trandate 100mg tablets (Focus Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+19998	Trandate 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+8707	Trandate 200mg tablets (Focus Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+8807	Trandate 400mg tablets (Focus Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+9273	Trandate 50mg tablets (Focus Pharmaceuticals Ltd)	Labetalol hydrochloride	2040000
+29998	Metoros 190mg Tablet (Novartis Pharmaceuticals UK Ltd)	Metoprolol	2040000
+27719	Metoros ls 95mg Tablet (Geigy Pharmaceuticals)	Metoprolol	2040000
+3344	Betaloc 100mg tablets (AstraZeneca UK Ltd)	Metoprolol tartrate	02040000/04070402
+8071	Betaloc 50mg tablets (AstraZeneca UK Ltd)	Metoprolol tartrate	02040000/04070402
+24461	Betaloc I.V. 5mg/5ml solution for injection ampoules (AstraZeneca UK Ltd)	Metoprolol tartrate	2040000
+3474	Betaloc-SA 200mg tablets (AstraZeneca UK Ltd)	Metoprolol tartrate	02040000/04070402
+24520	HYDROCHLOROTHIAZIDE /METOPROLOL TARTRATE 25 MG TAB	0	0
+13499	Lopresor 100mg Tablet (Novartis Pharmaceuticals UK Ltd)	Metoprolol tartrate	2040000
+46740	Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd)	Metoprolol tartrate	02040000/04070402
+10429	Lopresor 50mg Tablet (Novartis Pharmaceuticals UK Ltd)	Metoprolol tartrate	2040000
+46614	Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd)	Metoprolol tartrate	02040000/04070402
+20082	Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd)	Metoprolol tartrate	02040000/04070402
+30400	Mepranix 100mg Tablet (Ashbourne Pharmaceuticals Ltd)	Metoprolol tartrate	2040000
+29762	Mepranix 50mg Tablet (Ashbourne Pharmaceuticals Ltd)	Metoprolol tartrate	2040000
+753	Metoprolol 100mg tablets	Metoprolol tartrate	02040000/04070402
+34125	Metoprolol 100mg tablets (A A H Pharmaceuticals Ltd)	Metoprolol tartrate	02040000/04070402
+34854	Metoprolol 100mg tablets (Actavis UK Ltd)	Metoprolol tartrate	02040000/04070402
+66670	Metoprolol 100mg tablets (Alliance Healthcare (Distribution) Ltd)	Metoprolol tartrate	02040000/04070402
+40167	Metoprolol 100mg tablets (IVAX Pharmaceuticals UK Ltd)	Metoprolol tartrate	02040000/04070402
+34509	Metoprolol 100mg tablets (Mylan Ltd)	Metoprolol tartrate	02040000/04070402
+34092	Metoprolol 100mg tablets (Teva UK Ltd)	Metoprolol tartrate	02040000/04070402
+63724	Metoprolol 100mg tablets (Waymade Healthcare Plc)	Metoprolol tartrate	02040000/04070402
+22151	METOPROLOL 100MG/CHLORTHALIDONE 12.5MG	0	0
+65227	Metoprolol 12.5mg/5ml oral solution	Metoprolol tartrate	02040000/04070402
+51447	Metoprolol 12.5mg/5ml oral suspension	Metoprolol tartrate	02040000/04070402
+8068	Metoprolol 200mg modified-release tablets	Metoprolol tartrate	02040000/04070402
+55979	Metoprolol 25mg/5ml oral suspension	Metoprolol tartrate	02040000/04070402
+34890	Metoprolol 50mg Tablet (Berk Pharmaceuticals Ltd)	Metoprolol tartrate	2040000
+739	Metoprolol 50mg tablets	Metoprolol tartrate	02040000/04070402
+34094	Metoprolol 50mg tablets (A A H Pharmaceuticals Ltd)	Metoprolol tartrate	02040000/04070402
+34430	Metoprolol 50mg tablets (Actavis UK Ltd)	Metoprolol tartrate	02040000/04070402
+34584	Metoprolol 50mg tablets (IVAX Pharmaceuticals UK Ltd)	Metoprolol tartrate	02040000/04070402
+32836	Metoprolol 50mg tablets (Mylan Ltd)	Metoprolol tartrate	02040000/04070402
+34925	Metoprolol 50mg tablets (Sandoz Ltd)	Metoprolol tartrate	02040000/04070402
+34407	Metoprolol 50mg tablets (Teva UK Ltd)	Metoprolol tartrate	02040000/04070402
+11793	Metoprolol 50mg/5ml oral suspension	Metoprolol tartrate	02040000/04070402
+57240	Metoprolol 50mg/5ml oral suspension (Drug Tariff Special Order)	Metoprolol tartrate	02040000/04070402
+14502	Metoprolol 5mg/5ml solution for injection ampoules	Metoprolol tartrate	2040000
+47536	Metoprolol tartrate 12.5mg/5ml Oral suspension	Metoprolol Tartrate	2040000
+45289	Metoprolol tartrate Oral solution	Metoprolol Tartrate	2040000
+8147	Lopresoretic Tablet (Novartis Pharmaceuticals UK Ltd)	Metoprolol Tartrate/Chlortalidone	02020100/02040000
+15488	Metoprolol tartrate with chlortalidone Tablet	Metoprolol Tartrate/Chlortalidone	02020100/02040000
+18287	Co-Betaloc SA tablets (Pfizer Ltd)	Metoprolol tartrate/Hydrochlorothiazide	0
+29427	Hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet	Metoprolol Tartrate/Hydrochlorothiazide	02020100/02040000
+33659	Hydrochlorothiazide with metoprolol tartrate 25mg with 200mg Modified-release tablet	Metoprolol Tartrate/Hydrochlorothiazide	02020100/02040000
+20093	Metoprolol 200mg modified-release / Hydrochlorothiazide 25mg tablets	Metoprolol tartrate/Hydrochlorothiazide	0
+61573	Atenolol 25mg/5ml oral solution	0	2040000
+13415	Corgard 40mg tablets (Sanofi-Synthelabo Ltd)	Nadolol	0
+10716	Corgard 80mg tablets (Sanofi)	Nadolol	2040000
+66779	Nadolol 30mg/5ml oral suspension	0	2040000
+8935	Nadolol 40mg tablets	Nadolol	2040000
+66464	Nadolol 40mg/5ml oral solution	Nadolol	2040000
+2499	Nadolol 80mg tablets	Nadolol	2040000
+27086	NADOLOL 80MG/BENDROFLUAZIDE 5MG MG TAB	0	0
+12119	SOTALOL HCl S/R 80 MG TAB	0	0
+11338	Bendroflumethiazide 5mg with Nadolol 40mg tablets	Nadolol/Bendroflumethiazide	02020100/02040000
+5330	Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd)	Nadolol/Bendroflumethiazide	0
+14438	Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd)	Nadolol/Bendroflumethiazide	0
+23134	Nadolol 40mg / Bendroflumethiazide 5mg tablets	Nadolol/Bendroflumethiazide	0
+27946	Nadolol 80mg / Bendroflumethiazide 5mg tablets	Nadolol/Bendroflumethiazide	0
+7528	Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL)	Nebivolol hydrochloride	2040000
+66559	Nebilet 5mg tablets (Waymade Healthcare Plc)	Nebivolol hydrochloride	2040000
+59961	Nebivolol 10mg tablets	Nebivolol hydrochloride	2040000
+40761	Nebivolol 2.5mg tablets	Nebivolol hydrochloride	2040000
+44808	Nebivolol 2.5mg tablets (A A H Pharmaceuticals Ltd)	Nebivolol hydrochloride	2040000
+47300	Nebivolol 2.5mg tablets (Glenmark Pharmaceuticals Europe Ltd)	Nebivolol hydrochloride	2040000
+54487	Nebivolol 2.5mg tablets (Sigma Pharmaceuticals Plc)	Nebivolol hydrochloride	2040000
+751	Nebivolol 5mg tablets	Nebivolol hydrochloride	2040000
+64703	Nebivolol 5mg tablets (Glenmark Generics (Europe) Ltd)	Nebivolol hydrochloride	2040000
+15117	Nifedipine with atenolol 20mg + 50mg Capsule	Nifedipine/Atenolol	02040000/02060200
+25644	Apsolox 80mg Tablet (Approved Prescription Services Ltd)	Oxprenolol hydrochloride	2040000
+16669	LOPRESOR SR 200 MG TAB	0	0
+12497	OXPRENOLOL 10 MG TAB	0	0
+1334	Oxprenolol 160mg modified-release tablets	Oxprenolol hydrochloride	2040000
+3748	Oxprenolol 160mg Tablet	Oxprenolol Hydrochloride	2040000
+3516	Oxprenolol 20mg tablets	Oxprenolol hydrochloride	2040000
+27357	Oxprenolol 40mg Tablet (Actavis UK Ltd)	Oxprenolol hydrochloride	2040000
+1333	Oxprenolol 40mg tablets	Oxprenolol hydrochloride	2040000
+2780	Oxprenolol 80mg tablets	Oxprenolol hydrochloride	2040000
+33569	Oxprenolol sr 160mg Modified-release tablet (Hillcross Pharmaceuticals Ltd)	Oxprenolol hydrochloride	2040000
+21885	Oxyprenix SR 160mg tablets	Oxprenolol Hydrochloride	2040000
+29230	Slow-pren 160mg Tablet (IVAX Pharmaceuticals UK Ltd)	Oxprenolol hydrochloride	2040000
+4025	Slow-Trasicor 160mg tablets (AMCo)	Oxprenolol hydrochloride	2040000
+10777	Trasicor 160mg Tablet (Novartis Pharmaceuticals UK Ltd)	Oxprenolol Hydrochloride	2040000
+13309	TRASICOR 2 MG INJ	0	0
+7474	Trasicor 20mg Tablet (Novartis Pharmaceuticals UK Ltd)	Oxprenolol hydrochloride	2040000
+35062	Trasicor 20mg tablets (Amdipharm Plc)	Oxprenolol hydrochloride	2040000
+8290	Trasicor 40mg Tablet (Novartis Pharmaceuticals UK Ltd)	Oxprenolol hydrochloride	2040000
+24094	Trasicor 40mg tablets (Amdipharm Plc)	Oxprenolol hydrochloride	2040000
+2361	Trasicor 80mg Tablet (Novartis Pharmaceuticals UK Ltd)	Oxprenolol hydrochloride	2040000
+29180	Trasicor 80mg tablets (Amdipharm Plc)	Oxprenolol hydrochloride	2040000
+13871	Co-prenozide 160mg/0.25mg modified-release tablets	Oxprenolol hydrochloride/Cyclopenthiazide	2040000
+52145	Cyclopenthiazide 0.25mg with oxprenolol 160mg modified-release tablets	Oxprenolol Hydrochloride/Cyclopenthiazide	02020100/02040000
+8673	Oxprenolol with cyclopenthiazide 160mg+0.25mg Modified-release tablet	Oxprenolol Hydrochloride/Cyclopenthiazide	02020100/02040000
+4429	Trasidrex modified-release tablets (Mercury Pharma Group Ltd)	Oxprenolol hydrochloride/Cyclopenthiazide	2040000
+55853	Pindolol 15mg Tablet (Hillcross Pharmaceuticals Ltd)	Pindolol	2040000
+14673	Pindolol 15mg tablets	Pindolol	2040000
+5284	Pindolol 5mg tablets	Pindolol	2040000
+20012	Visken 15mg Tablet (Sovereign Medical Ltd)	Pindolol	2040000
+32787	Visken 15mg tablets (AMCo)	Pindolol	2040000
+4588	Visken 5mg Tablet (Sovereign Medical Ltd)	Pindolol	2040000
+35695	Visken 5mg tablets (AMCo)	Pindolol	2040000
+25462	Clopamide 5mg with Pindolol 10mg tablets	Pindolol/Clopamide	2040000
+25764	PINDOLOL 10MG/CLOPAMIDE 5MG	0	0
+20169	Practolol 2mg/ml injection	Practolol	2040000
+22912	Bendroflumethiazide 2.5mg with Propanolol 80mg capsules	Propranolol Hydrochloride/Bendroflumethiazide	02020100/02040000
+23131	Bendroflumethiazide 5mg with Propanolol 160mg modified-release capsules	Propranolol Hydrochloride/Bendroflumethiazide	02020100/02040000
+4796	Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd)	Propranolol hydrochloride/Bendroflumethiazide	0
+8369	Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd)	Propranolol hydrochloride/Bendroflumethiazide	0
+8987	Propranolol 160mg modified-release / Bendroflumethiazide 5mg capsules	Propranolol hydrochloride/Bendroflumethiazide	0
+12054	Propranolol 80mg / Bendroflumethiazide 2.5mg capsules	Propranolol hydrochloride/Bendroflumethiazide	0
+17783	Spiroprop Tablet (Pharmacia Ltd)	Propranolol Hydrochloride/Spironolactone	2040000
+3691	Sotalol 160mg with hydrochlorothiazide 25mg tablet	Sotalol Hydrochloride/Hydrochlorothiazide	2040000
+8061	Sotalol 80mg with hydrochlorothiazide 12.5mg tablet	Sotalol Hydrochloride/Hydrochlorothiazide	2040000
+3041	SOTALOL HCl 40 MG INJ	0	0
+29976	SOTAZIDE	0	0
+12456	Sotazide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd)	Sotalol Hydrochloride/Hydrochlorothiazide	2040000
+15042	Tolerzide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd)	Sotalol Hydrochloride/Hydrochlorothiazide	2040000
+30519	Amiloride with timolol with hydrochlorothiazide tablets	Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+21182	Hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg Tablet	Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+25730	Timolol maleate with amiloride and hydrochlorothiazide Tablet	Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+19142	Bendroflumethiazide 2.5mg with Timolol maleate 10mg tablets	Timolol Maleate/Bendroflumethiazide	02020100/02040000
+21025	Prestim forte Tablet (LEO Pharma)	Timolol Maleate/Bendroflumethiazide	02020100/02040000
+8623	Prestim Tablet (ICN Pharmaceuticals France S.A.)	Timolol maleate/Bendroflumethiazide	02020100/02040000
+25363	Prestim tablets (Meda Pharmaceuticals Ltd)	Timolol maleate/Bendroflumethiazide	2040100
+12651	Timolol 10mg / Bendroflumethiazide 2.5mg tablets	Timolol maleate/Bendroflumethiazide	2040100
+8788	TIMOLOL 10MG/BENDROFLUAZIDE 2.5MG TAB	0	0
+12517	Timolol maleate with bendroflumethiazide 20mg + 5mg Tablet	Timolol Maleate/Bendroflumethiazide	02020100/02040000
+14126	Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets	Acebutolol hydrochloride/Hydrochlorothiazide	0
+8189	Secadrex 200mg/12.5mg tablets (Sanofi)	Acebutolol hydrochloride/Hydrochlorothiazide	0
+3526	Amiloride with atenolol with hydrochlorothiazide capsules	Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+4983	Atenolol with amiloride and hydrochlorothiazide capsules	Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+28177	Hydrochlorothiazide with atenolol and amiloride Capsule	Atenolol/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+7543	Kalten capsules (M & A Pharmachem Ltd)	Atenolol/Amiloride hydrochloride/Hydrochlorothiazide	2040100
+48745	Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets	0	2040100
+13526	Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+21873	Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+5721	Co-tenidone 100mg/25mg tablets	Atenolol/Chlortalidone	02020100/02040000
+34899	Co-tenidone 100mg/25mg tablets (A A H Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+46952	Co-tenidone 100mg/25mg tablets (Actavis UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+62537	Co-tenidone 100mg/25mg tablets (DE Pharmaceuticals)	Atenolol/Chlortalidone	02020100/02040000
+34012	Co-tenidone 100mg/25mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+37725	Co-tenidone 100mg/25mg tablets (Mylan Ltd)	Atenolol/Chlortalidone	02020100/02040000
+41572	Co-tenidone 100mg/25mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+9783	Co-tenidone 50mg/12.5mg tablets	Atenolol/Chlortalidone	02020100/02040000
+32094	Co-tenidone 50mg/12.5mg tablets (A A H Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+31708	Co-tenidone 50mg/12.5mg tablets (Actavis UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+34034	Co-tenidone 50mg/12.5mg tablets (IVAX Pharmaceuticals UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+34449	Co-tenidone 50mg/12.5mg tablets (Mylan Ltd)	Atenolol/Chlortalidone	02020100/02040000
+34825	Co-tenidone 50mg/12.5mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+26248	Tenchlor 100mg/25mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+31470	Tenchlor 50mg/12.5mg tablets (Teva UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+1288	Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+1124	Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd)	Atenolol/Chlortalidone	02020100/02040000
+24280	Totaretic 100mg+25mg Tablet (C P Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+26741	Totaretic 50mg+12.5mg Tablet (C P Pharmaceuticals Ltd)	Atenolol/Chlortalidone	02020100/02040000
+8526	Aprinox 2.5mg tablets (AMCo)	Bendroflumethiazide	02020100/09050102
+7698	Aprinox 5mg tablets (Amdipharm Plc)	Bendroflumethiazide	2020100
+66517	Bendroflumethiazide 1.25mg/5ml oral suspension	Bendroflumethiazide	02020100/09050102
+34803	Bendroflumethiazide 2.5mg Tablet (Regent Laboratories Ltd)	Bendroflumethiazide	2020100
+2	Bendroflumethiazide 2.5mg tablets	Bendroflumethiazide	02020100/09050102
+33651	Bendroflumethiazide 2.5mg tablets (A A H Pharmaceuticals Ltd)	Bendroflumethiazide	02020100/09050102
+34059	Bendroflumethiazide 2.5mg tablets (Actavis UK Ltd)	Bendroflumethiazide	02020100/09050102
+40886	Bendroflumethiazide 2.5mg tablets (Almus Pharmaceuticals Ltd)	Bendroflumethiazide	02020100/09050102
+27689	Bendroflumethiazide 2.5mg tablets (IVAX Pharmaceuticals UK Ltd)	Bendroflumethiazide	2020100
+47844	Bendroflumethiazide 2.5mg tablets (Kent Pharmaceuticals Ltd)	Bendroflumethiazide	02020100/09050102
+33415	Bendroflumethiazide 2.5mg tablets (Mylan Ltd)	Bendroflumethiazide	02020100/09050102
+34602	Bendroflumethiazide 2.5mg tablets (Sovereign Medical Ltd)	Bendroflumethiazide	02020100/09050102
+31670	Bendroflumethiazide 2.5mg tablets (Teva UK Ltd)	Bendroflumethiazide	02020100/09050102
+27256	Bendroflumethiazide 2.5mg tablets (Wockhardt UK Ltd)	Bendroflumethiazide	02020100/09050102
+7351	Bendroflumethiazide 2.5mg/5ml oral suspension	Bendroflumethiazide	02020100/09050102
+58	Bendroflumethiazide 5mg tablets	Bendroflumethiazide	2020100
+23427	Bendroflumethiazide 5mg tablets (A A H Pharmaceuticals Ltd)	Bendroflumethiazide	2020100
+34124	Bendroflumethiazide 5mg tablets (Actavis UK Ltd)	Bendroflumethiazide	2020100
+64907	Bendroflumethiazide 5mg tablets (Almus Pharmaceuticals Ltd)	Bendroflumethiazide	2020100
+40149	Bendroflumethiazide 5mg tablets (IVAX Pharmaceuticals UK Ltd)	Bendroflumethiazide	2020100
+41517	Bendroflumethiazide 5mg tablets (Teva UK Ltd)	Bendroflumethiazide	2020100
+31820	Bendroflumethiazide 5mg tablets (Wockhardt UK Ltd)	Bendroflumethiazide	2020100
+53812	Bendroflumethiazide oral solution	Bendroflumethiazide	2020100
+21803	Berkozide 2.5mg Tablet (Berk Pharmaceuticals Ltd)	Bendroflumethiazide	2020100
+21867	Berkozide 5mg Tablet (Berk Pharmaceuticals Ltd)	Bendroflumethiazide	2020100
+18973	Centyl 2.5mg Tablet (Edwin Burgess Ltd)	Bendroflumethiazide	2020100
+29991	Centyl 5mg Tablet (Edwin Burgess Ltd)	Bendroflumethiazide	2020100
+24189	Neo-bendromax 2.5mg Tablet (Ashbourne Pharmaceuticals Ltd)	Bendroflumethiazide	2020100
+24190	Neo-bendromax 5mg Tablet (Ashbourne Pharmaceuticals Ltd)	Bendroflumethiazide	2020100
+46302	Neo-Naclex 2.5mg tablets (AMCo)	Bendroflumethiazide	02020100/09050102
+1209	Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd)	Bendroflumethiazide	2020100
+4406	Decaserpyl plus Tablet (Roussel Laboratories Ltd)	Benzthiazide/methoserpidine	2050200
+29696	Methoserpidine with benzthiazide Tablet	Benzthiazide/methoserpidine	2050200
+17462	Bisoprolol 10mg / Hydrochlorothiazide 6.25mg tablets	Hydrochlorothiazide/Bisoprolol fumarate	0
+17149	Monozide 10 tablets (Wyeth Pharmaceuticals)	Hydrochlorothiazide/Bisoprolol fumarate	0
+11641	Captopril 25mg with Hydrochlorothiazide 12.5mg tablets	Captopril/Hydrochlorothiazide	02020100/02050501
+10902	Captopril 50mg with Hydrochlorothiazide 25mg tablets	Captopril/Hydrochlorothiazide	02020100/02050501
+15135	Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet	Captopril/Hydrochlorothiazide	02020100/02050501
+11133	Hydrochlorothiazide with captopril 25mg with 50mg Tablet	Captopril/Hydrochlorothiazide	02020100/02050501
+30592	CHLOROTHIAZIDE / SPIRONOLACTONE / GLUCOS 60 MG POW	0	0
+30034	CHLOROTHIAZIDE / SPIRONOLACTONE 100 MG POW	0	0
+64798	Chlorothiazide 120mg/5ml oral solution	0	2020100
+13246	Chlorothiazide 150mg/5ml oral suspension	Chlorothiazide	2020100
+27489	CHLOROTHIAZIDE 25 MG LIQ	0	0
+22525	CHLOROTHIAZIDE 250 MG SYR	0	0
+54679	Chlorothiazide 250mg tablets	Chlorothiazide	2020100
+59834	Chlorothiazide 250mg/5ml oral solution	0	2020100
+6816	Chlorothiazide 250mg/5ml oral suspension	Chlorothiazide	2020100
+56804	Chlorothiazide 25mg/5ml oral suspension	Chlorothiazide	2020100
+30035	CHLOROTHIAZIDE 40MG /SPIRONOLACTONE 4MG POW	0	0
+26120	CHLOROTHIAZIDE 50 MG SUS	0	0
+8836	Chlorothiazide 500mg tablets	Chlorothiazide	2020100
+60603	Chlorothiazide 50mg/5ml oral suspension	Chlorothiazide	2020100
+54341	Chlorothiazide 5mg/5ml oral suspension	0	2020100
+30367	CHLOROTHIAZIDE 60MG / SPIRONOLACTONE 6MG POW	0	0
+63227	Chlorothiazide 70mg/5ml oral solution	Chlorothiazide	2020100
+55889	Chlorothiazide oral solution	Chlorothiazide	2020100
+31235	CHLOROTHIAZIDE SACHETS 60 MG	0	0
+30368	CHLOROTHIAZIDE/SPIRONOLACTONE SACHETS 100 MG	0	0
+55050	CHLOROTHIAZIDE/SPIRONOLACTONE/LACT SACH 50 MG	0	0
+30365	CHLOROTHIAZIDE/SPIRONOLACTONE/LACTOSE MG POW	0	0
+33724	Diuril 250mg/5ml oral suspension (Imported (United States))	Chlorothiazide	2020100
+17720	Saluric 500mg Tablet (Merck Sharp & Dohme Ltd)	Chlorothiazide	2020100
+3548	Chlortalidone 100mg tablets	Chlortalidone	02020100/06050200
+605	Chlortalidone 50mg tablets	Chlortalidone	2020100
+3054	Hygroton 100mg Tablet (Alliance Pharmaceuticals Ltd)	Chlortalidone	02020100/06050200
+3997	Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd)	Chlortalidone	2020100
+1788	Atenolol 100mg with Chlortalidone 25mg tablets	Chlortalidone/Atenolol	02020100/02040000
+581	Atenolol 50mg with Chlortalidone 12.5mg tablets	Chlortalidone/Atenolol	02020100/02040000
+19055	Chlortalidone 12.5mg with Atenolol 50mg tablets	Chlortalidone/Atenolol	02020100/02040000
+16786	Chlortalidone 25mg with Atenolol 100mg tablets	Chlortalidone/Atenolol	02020100/02040000
+14057	Pindolol 10mg / Clopamide 5mg tablets	Clopamide/Pindolol	2040100
+9143	Viskaldix tablets (AMCo)	Clopamide/Pindolol	2040100
+1170	Cyclopenthiazide 500microgram tablets	Cyclopenthiazide	2020100
+22242	NAVIDREX	0	0
+2046	Navidrex 500microgram tablets (AMCo)	Cyclopenthiazide	2020100
+5189	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril maleate/Hydrochlorothiazide	02020100/02050501
+1021	Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd)	Enalapril maleate/Hydrochlorothiazide	02020100/02050501
+17252	Esidrex 25mg Tablet (Novartis Pharmaceuticals UK Ltd)	Hydrochlorothiazide	2020100
+13363	Esidrex 50mg Tablet (Novartis Pharmaceuticals UK Ltd)	Hydrochlorothiazide	2020100
+13472	ESIDREX-K TAB	0	0
+62516	Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide	2020100
+23483	HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R	0	0
+15577	HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R 12.5 MG TAB	0	0
+542	Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide	2020100
+3517	Hydrochlorothiazide 50mg tablets	Hydrochlorothiazide	2020100
+48132	Hydrochlorothiazide Capsule	Hydrochlorothiazide	2020100
+57488	Hydrochlorothiazide Oral solution	Hydrochlorothiazide	2020100
+12440	Hydrosaluric 25mg tablets (Merck Sharp & Dohme Ltd)	Hydrochlorothiazide	0
+16632	Hydrosaluric 50mg tablets (Merck Sharp & Dohme Ltd)	Hydrochlorothiazide	0
+41889	TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG	0	0
+3962	TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG TAB	0	0
+18263	Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Hydrochlorothiazide/Captopril	2050501
+25051	CAPOZIDE	0	0
+1520	Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Hydrochlorothiazide/Captopril	02020100/02050501
+39227	Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Hydrochlorothiazide/Captopril	2050501
+3203	Capozide LS Tablet (E R Squibb and Sons Ltd)	Hydrochlorothiazide/Captopril	02020100/02050501
+32166	Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd)	Hydrochlorothiazide/Captopril	02020100/02050501
+11561	Co-zidocapt 12.5mg/25mg tablets	Hydrochlorothiazide/Captopril	02020100/02050501
+11351	Co-zidocapt 25mg/50mg tablets	Hydrochlorothiazide/Captopril	02020100/02050501
+10627	Co-Betaloc tablets (Pfizer Ltd)	Metoprolol tartrate/Hydrochlorothiazide	0
+7066	Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets	Metoprolol tartrate/Hydrochlorothiazide	0
+13525	Hydrenox 50mg Tablet (Knoll Ltd)	Hydroflumethiazide	2020100
+12110	Hydroflumethiazide 50mg Tablet	Hydroflumethiazide	2020100
+62066	Cardide SR 1.5mg tablets (Teva UK Ltd)	Indapamide	2020100
+41885	Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd)	Indapamide	2020100
+5112	Indapamide 1.5mg modified-release tablets	Indapamide	2020100
+46675	Indapamide 1.5mg modified-release tablets (A A H Pharmaceuticals Ltd)	Indapamide	2020100
+62771	Indapamide 1.5mg modified-release tablets (DE Pharmaceuticals)	Indapamide	2020100
+60020	Indapamide 1.5mg modified-release tablets (Waymade Healthcare Plc)	Indapamide	2020100
+44168	Indipam XL 1.5mg tablets (Actavis UK Ltd)	Indapamide	2020100
+43184	Mapemid XL 1.5mg tablets (Teva UK Ltd)	Indapamide	2020100
+27546	NATRILIX	0	0
+3056	Natrilix SR 1.5mg tablets (Servier Laboratories Ltd)	Indapamide	2020100
+59616	Rawel XL 1.5mg tablets (Consilient Health Ltd)	Indapamide	2020100
+41861	Tensaid XL 1.5mg tablets (Mylan Ltd)	Indapamide	2020100
+39447	Varbim XL 1.5mg tablets (Teva UK Ltd)	Indapamide	2020100
+2612	Indapamide 2.5mg tablets	Indapamide hemihydrate	2020100
+48099	Indapamide 2.5mg tablets (A A H Pharmaceuticals Ltd)	Indapamide hemihydrate	2020100
+43516	Indapamide 2.5mg tablets (Actavis UK Ltd)	Indapamide hemihydrate	2020100
+54316	Indapamide 2.5mg tablets (Alliance Healthcare (Distribution) Ltd)	Indapamide hemihydrate	2020100
+56296	Indapamide 2.5mg tablets (Boston Healthcare Ltd)	Indapamide hemihydrate	2020100
+56760	Indapamide 2.5mg tablets (Strides Shasun (UK) Ltd)	Indapamide hemihydrate	2020100
+40907	Indapamide 2.5mg tablets (Genus Pharmaceuticals Ltd)	Indapamide hemihydrate	2020100
+55259	Indapamide 2.5mg tablets (Kent Pharmaceuticals Ltd)	Indapamide hemihydrate	2020100
+34551	Indapamide 2.5mg tablets (Mylan Ltd)	Indapamide hemihydrate	2020100
+42906	Indapamide 2.5mg tablets (Niche Generics Ltd)	Indapamide hemihydrate	2020100
+49529	Indapamide 2.5mg tablets (Phoenix Healthcare Distribution Ltd)	Indapamide hemihydrate	2020100
+33083	Indapamide 2.5mg tablets (Teva UK Ltd)	Indapamide hemihydrate	2020100
+48079	Indapamide 2.5mg tablets (Zentiva)	Indapamide hemihydrate	2020100
+64066	Indapamide 2.5mg/5ml oral suspension	0	2020100
+27957	Natramid 2.5mg Tablet (Trinity Pharmaceuticals Ltd)	Indapamide hemihydrate	2020100
+7641	Natrilix 2.5mg tablets (Servier Laboratories Ltd)	Indapamide hemihydrate	2020100
+15602	NATRILIX 5 MG TAB	0	0
+26275	Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd)	Indapamide hemihydrate	2020100
+26256	Opumide 2.5mg Tablet (Opus Pharmaceuticals Ltd)	Indapamide hemihydrate	2020100
+37978	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Indapamide/perindopril Arginine	02020100/02050501
+14228	Coversyl Plus tablets (Servier Laboratories Ltd)	Indapamide/Perindopril erbumine	0
+6794	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Indapamide/Perindopril erbumine	02020100/02050500/02050501
+39242	Carace 10 Plus tablets (Merck Sharp & Dohme Ltd)	Lisinopril/Hydrochlorothiazide	2050501
+17655	Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+39147	Carace 20 Plus tablets (Merck Sharp & Dohme Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+9764	Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+21231	Caralpha 20mg/12.5mg tablets (Actavis UK Ltd)	Lisinopril/Hydrochlorothiazide	2050501
+6786	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril/Hydrochlorothiazide	02020100/02050501
+37710	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+6468	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril/Hydrochlorothiazide	02020100/02050501
+55399	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+54201	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+33353	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+56244	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+6359	Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+39137	Zestoretic 10 tablets (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+57539	Zestoretic 10 tablets (Sigma Pharmaceuticals Plc)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+2982	Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+38995	Zestoretic 20 tablets (AstraZeneca UK Ltd)	Lisinopril/Hydrochlorothiazide	02020100/02050501
+15457	Baycaron 25mg Tablet (Bayer Plc)	Mefruside	2020100
+17143	Mefruside 25mg Tablet	Mefruside	2020100
+8464	Meprobamate with bendroflumethiazide Tablet	Meprobamate/Bendroflumethiazide	02020100/04010200
+8303	Tenavoid Tablet (Edwin Burgess Ltd)	Meprobamate/Bendroflumethiazide	02020100/04010200
+18267	Enduron 5mg Tablet (Abbott Laboratories Ltd)	Methyclothiazide	2020100
+18244	ENDURONYL TAB	0	0
+20057	Methyclothiazide 5mg Tablet	Methyclothiazide	2020100
+21346	Hydromet Tablet (MSD Thomas Morson Pharmaceuticals)	Methyldopa Anhydrous/Hydrochlorothiazide	2050200
+28738	Methyldopa with hydrochlorothiazide Tablet	Methyldopa Anhydrous/Hydrochlorothiazide	2050200
+8602	Metenix 5mg tablets (Sanofi)	Metolazone	2020100
+53674	Metolazone 2.5mg tablets	Metolazone	2020100
+49752	Metolazone 2.5mg/5ml oral solution	0	2020100
+4334	Metolazone 500microgram low dose Tablet	Metolazone	2020100
+4332	Metolazone 5mg tablets	Metolazone	2020100
+55777	Metolazone 5mg/5ml oral solution	0	2020100
+54329	Metolazone 5mg/5ml oral suspension	Metolazone	2020100
+54643	Metolazone Oral solution	Metolazone	2020100
+19352	Xuret 0.5mg Tablet (Galen Ltd)	Metolazone	2020100
+61846	Zaroxolyn 2.5mg tablets (IDIS)	Metolazone	0
+8147	Lopresoretic Tablet (Novartis Pharmaceuticals UK Ltd)	Metoprolol Tartrate/Chlortalidone	02020100/02040000
+15488	Metoprolol tartrate with chlortalidone Tablet	Metoprolol Tartrate/Chlortalidone	02020100/02040000
+18287	Co-Betaloc SA tablets (Pfizer Ltd)	Metoprolol tartrate/Hydrochlorothiazide	0
+29427	Hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet	Metoprolol Tartrate/Hydrochlorothiazide	02020100/02040000
+33659	Hydrochlorothiazide with metoprolol tartrate 25mg with 200mg Modified-release tablet	Metoprolol Tartrate/Hydrochlorothiazide	02020100/02040000
+20093	Metoprolol 200mg modified-release / Hydrochlorothiazide 25mg tablets	Metoprolol tartrate/Hydrochlorothiazide	0
+11338	Bendroflumethiazide 5mg with Nadolol 40mg tablets	Nadolol/Bendroflumethiazide	02020100/02040000
+5330	Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd)	Nadolol/Bendroflumethiazide	0
+14438	Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd)	Nadolol/Bendroflumethiazide	0
+23134	Nadolol 40mg / Bendroflumethiazide 5mg tablets	Nadolol/Bendroflumethiazide	0
+27946	Nadolol 80mg / Bendroflumethiazide 5mg tablets	Nadolol/Bendroflumethiazide	0
+13871	Co-prenozide 160mg/0.25mg modified-release tablets	Oxprenolol hydrochloride/Cyclopenthiazide	2040000
+52145	Cyclopenthiazide 0.25mg with oxprenolol 160mg modified-release tablets	Oxprenolol Hydrochloride/Cyclopenthiazide	02020100/02040000
+8673	Oxprenolol with cyclopenthiazide 160mg+0.25mg Modified-release tablet	Oxprenolol Hydrochloride/Cyclopenthiazide	02020100/02040000
+4429	Trasidrex modified-release tablets (Mercury Pharma Group Ltd)	Oxprenolol hydrochloride/Cyclopenthiazide	2040000
+51258	Coversyl Arginine Plus 5mg/1.25mg tablets (DE Pharmaceuticals)	Indapamide/Perindopril arginine	02020100/02050501
+37908	Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd)	Indapamide/Perindopril arginine	02020100/02050501
+56157	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	0	02020100/02050501
+50607	Perindopril arginine 2mg with Indapamide 625 micrograms tablet	Perindopril Erbumine/Indapamide	02020100/02050501
+48098	Perindopril arginine 4mg with Indapamide 1.25mg tablet	Perindopril Erbumine/Indapamide	02020100/02050501
+12360	Nephril 1mg Tablet (Pfizer Ltd)	Polythiazide	2020100
+12926	Polythiazide 1mg tablets	Polythiazide	0
+17561	Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets	Bendroflumethiazide/Potassium chloride	0
+1211	Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets	Potassium chloride/Bendroflumethiazide	2020100
+20426	Centyl k 2.5mg+7.7mmol Tablet (Edwin Burgess Ltd)	Bendroflumethiazide/Potassium chloride	2020800
+20431	Centyl K modified-release tablets (LEO Pharma)	Bendroflumethiazide/Potassium chloride	0
+2979	Centyl k Tablet (Edwin Burgess Ltd)	Potassium chloride/Bendroflumethiazide	2020800
+1213	Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd)	Potassium chloride/Bendroflumethiazide	2020100
+8891	Hygroton -k Tablet (Novartis Pharmaceuticals UK Ltd)	Potassium Chloride/Chlortalidone	2020100
+25630	BRINALDIX K EFFERVESCENT	0	0
+18983	Brinaldix k Effervescent tablet (Berk Pharmaceuticals Ltd)	Potassium Chloride/Clopamide	2020800
+22839	Clopamide with Potassium effervescent tablets	Potassium Chloride/Clopamide	2020800
+21940	POTASSIUM EFFERVESCENT (6.5MMOL)	0	0
+23492	CYCLOPENTHIAZIDE 250MCG/K 8.1MMOL	0	0
+2833	CYCLOPENTHIAZIDE -K tablets	Potassium Chloride/Cyclopenthiazide	2020100
+1125	Navidrex -k Tablet (Novartis Pharmaceuticals UK Ltd)	Potassium Chloride/Cyclopenthiazide	2020100
+7734	Diumide-K Continus tablets (Teofarma)	Potassium chloride/Furosemide	2020800
+17960	Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets	Potassium chloride/Furosemide	0
+8102	Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets	Potassium chloride/Furosemide	2020800
+7582	Lasikal modified-release tablets (Borg Medicare)	Potassium chloride/Furosemide	0
+10781	Lasix with k Tablet (Hoechst Marion Roussel)	Potassium chloride/Furosemide	2020800
+36519	Esidrex -k Tablet (Novartis Pharmaceuticals UK Ltd)	Potassium Chloride/Hydrochlorothiazide	2020800
+22912	Bendroflumethiazide 2.5mg with Propanolol 80mg capsules	Propranolol Hydrochloride/Bendroflumethiazide	02020100/02040000
+23131	Bendroflumethiazide 5mg with Propanolol 160mg modified-release capsules	Propranolol Hydrochloride/Bendroflumethiazide	02020100/02040000
+4796	Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd)	Propranolol hydrochloride/Bendroflumethiazide	0
+8369	Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd)	Propranolol hydrochloride/Bendroflumethiazide	0
+8987	Propranolol 160mg modified-release / Bendroflumethiazide 5mg capsules	Propranolol hydrochloride/Bendroflumethiazide	0
+12054	Propranolol 80mg / Bendroflumethiazide 2.5mg capsules	Propranolol hydrochloride/Bendroflumethiazide	0
+30129	Abicol Tablet (Knoll Ltd)	Reserpine/Bendroflumethiazide	2050200
+41894	RESERPINE/BENDROFLUAZIDE 150 MCG TAB	0	0
+15493	Reserpine with hydrochlorothiazide tablet	Reserpine/Hydrochlorothiazide	2050200
+19892	Serpasil -esidrex Tablet (Novartis Pharmaceuticals UK Ltd)	Reserpine/Hydrochlorothiazide	2050200
+30519	Amiloride with timolol with hydrochlorothiazide tablets	Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+21182	Hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg Tablet	Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+25730	Timolol maleate with amiloride and hydrochlorothiazide Tablet	Timolol Maleate/Amiloride Hydrochloride/Hydrochlorothiazide	02020100/02040000
+19142	Bendroflumethiazide 2.5mg with Timolol maleate 10mg tablets	Timolol Maleate/Bendroflumethiazide	02020100/02040000
+21025	Prestim forte Tablet (LEO Pharma)	Timolol Maleate/Bendroflumethiazide	02020100/02040000
+8623	Prestim Tablet (ICN Pharmaceuticals France S.A.)	Timolol maleate/Bendroflumethiazide	02020100/02040000
+25363	Prestim tablets (Meda Pharmaceuticals Ltd)	Timolol maleate/Bendroflumethiazide	2040100
+12651	Timolol 10mg / Bendroflumethiazide 2.5mg tablets	Timolol maleate/Bendroflumethiazide	2040100
+8788	TIMOLOL 10MG/BENDROFLUAZIDE 2.5MG TAB	0	0
+12517	Timolol maleate with bendroflumethiazide 20mg + 5mg Tablet	Timolol Maleate/Bendroflumethiazide	02020100/02040000
+4605	Moducren tablets (Merck Sharp & Dohme Ltd)	Timolol maleate/Hydrochlorothiazide/Amiloride hydrochloride	0
+4044	Diurexan 20mg tablets (Meda Pharmaceuticals Ltd)	Xipamide	2020100
+26675	XIPAMIDE	0	0
+7618	Xipamide 20mg tablets	Xipamide	2020100

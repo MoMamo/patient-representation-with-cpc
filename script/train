@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# Specify a job name
+#$ -N job
+
+# --- Parameters for the Queue Master ---
+# Project name and target queue
+#$ -P rahimi.prjc
+#$ -q long.qg
+#$ -l gpu=3
+
+# Run the job in the current working directory
+#$ -wd /well/rahimi/users/sev854/project/EHRPretrain/log/job
+#$ -j y
+
+# Log locations which are relative to the current
+# working directory of the submission
+###$ -o output.log
+###$ -e error.log
+
+# Parallel environemnt settings
+#  For more information on these please see the wiki
+#  Allowed settings:
+#   shmem
+#   mpi
+#   node_mpi
+#   ramdisk
+#$ -pe shmem 1
+
+# Print some useful data about the job to help with debugging
+echo "------------------------------------------------"
+echo "SGE Job ID: $JOB_ID"
+echo "SGE Job ID: $SGE_JOB_ID"
+echo "Run on host: "`hostname`
+echo "Operating system: "`uname -s`
+echo "Username: "`whoami`
+echo "Started at: "`date`
+echo "------------------------------------------------"
+
+# Finally, we can run our real computing job
+
+module load python/3.5.2-gcc5.4.0
+module load PyTorch/1.6.0-fosscuda-2019b-Python-3.7.4
+source /well/rahimi/users/sev854/install/env/projectA-ivybridge/bin/activate 
+
+python /well/rahimi/users/sev854/project/EHRPretrain/EHRPretraining/main.py \
+--params $1 \
+--save_path $2 
+
+echo "END"
+
+# End of job script
